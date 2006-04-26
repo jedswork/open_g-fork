@@ -23,7 +23,7 @@
       <Item Name="Write Packet.vi" Type="VI" URL="Private/Write Packet.vi"/>
       <Item Name="Packet Counter.vi" Type="VI" URL="Private/Packet Counter.vi"/>
       <Item Name="Check for Error.vi" Type="VI" URL="Private/Check for Error.vi"/>
-      <Item Name="Get Table Info Responce.vi" Type="VI" URL="Private/Get Table Info Responce.vi"/>
+      <Item Name="Get Table Info Response.vi" Type="VI" URL="Private/Get Table Info Response.vi"/>
       <Item Name="Get Field Length Encoding Data.vi" Type="VI" URL="Private/Get Field Length Encoding Data.vi"/>
       <Item Name="Read Field Descriptors.vi" Type="VI" URL="Private/Read Field Descriptors.vi"/>
       <Item Name="Get Row Data.vi" Type="VI" URL="Private/Get Row Data.vi"/>
