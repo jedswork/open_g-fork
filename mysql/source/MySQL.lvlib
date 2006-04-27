@@ -7,6 +7,7 @@
       <Item Name="Close.vi" Type="VI" URL="Public/Close.vi"/>
       <Item Name="Query.vi" Type="VI" URL="Public/Query.vi"/>
       <Item Name="Set Default dB.vi" Type="VI" URL="Public/Set Default dB.vi"/>
+      <Item Name="MySQL Example.vi" Type="VI" URL="Public/MySQL Example.vi"/>
    </Item>
    <Item Name="Private" Type="Folder">
       <Property Name="NI.LibItem.Scope" Type="Int">2</Property>
