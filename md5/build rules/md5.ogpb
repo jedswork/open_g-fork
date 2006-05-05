@@ -9,7 +9,7 @@ Summary="OpenG MD5 Digest"
 License=LGPL
 Copyright="2004 Enrique Vargas"
 Distribution="OpenG Toolkit"
-Icon=images/md5.bmp
+Icon=../source/images/md5.bmp
 Vendor=OpenG.org
 URL=http://openg.org/md5
 Packager="Jim Kring <jim@jimkring.com>"
@@ -45,14 +45,14 @@ Num Files=1
 File 0="md5.llb/*"
 
 [File Group 1]
-Source Dir=mnu
+Source Dir=../source/mnu
 Target Dir=<user.lib>/_dynamicpalette_dirs/adv
 Replace Mode=Never
 Num Files=1
 File 0=oglib_md5.mnu
 
 [File Group 2]
-Source Dir=mnu
+Source Dir=../source/mnu
 Target Dir=<user.lib>/_dynamicpalette_dirs/OpenG
 Replace Mode=Never
 Num Files=1

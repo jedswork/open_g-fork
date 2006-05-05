@@ -1,0 +1,79 @@
+*** 18:00:11.5 : Build started [5/4/2006]  File: md5.ogbld
+
+
+>>> 18:00:11.5 : DEAB Read Build File started
+
+>>> 18:00:11.7 : DEAB Expand & Verify TL&D VI Paths started
+
+>>> 18:00:11.7 : Load VIs into Memory started
+
+10 VIs have been loaded
+
+>>> 18:00:11.9 : Test VIs need be Unloaded started
+
+>>> 18:00:12.0 : Test for VI Unsaved Changes started
+
+>>> 18:00:12.0 : Generate Resources Copy Info started
+
+>>> 18:00:12.0 : Generate VI Building Info started
+
+>>> 18:00:12.1 : Revise Ambiguous VIs Destination started
+
+>>> 18:00:12.2 : Verify if Sources can be Removed started
+
+>>> 18:00:12.2 : Create Target Dirs and LLBs started
+
+>>> 18:00:12.3 : Set VI Properties started
+
+>>> 18:00:12.4 : Set Custom VI Properties started
+
+>>> 18:00:12.4 : Save VIs to Destination started
+
+10 VIs have been saved
+
+>>> 18:00:13.2 : UnLoad Top-Level and Dynamic VIs started
+
+>>> 18:00:13.2 : Copy Resource Files and Relink VIs started
+
+0 Resource files have been copied
+
+>>> 18:00:13.3 : Set Top Level VIs in LLBs started
+
+>>> 18:00:13.3 : Convert LLBs to EXEs started
+
+>>> 18:00:13.4 : Copy Support Files started
+
+0 Support files have been copied
+
+
+*** 18:00:13.5 : Build finished
+
+
+#########################
+Ambiguous VIs information
+#########################
+
+None
+
+
+#########################
+VIs not included to build
+#########################
+
+None
+
+
+#############################
+Non-VIs not included to build
+#############################
+
+*** Summary ***
+
+1  : C:\Program Files\National Instruments\LabVIEW 6.1\help\CryptoG\Crypto Help.hlp (Help file)
+
+*** Linking details ***
+
+1  : C:\Program Files\National Instruments\LabVIEW 6.1\help\CryptoG\Crypto Help.hlp (Help file)
+Referred in:
+Instrument: D:\Projects\OpenG\opengtoolkit\SVN_Folders\md5\source\public\MD5 Message Digest.vi
+
