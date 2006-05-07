@@ -1,0 +1,60 @@
+[Package Name]
+Name=oglib_md5
+Version=1.3
+Release=1
+
+[Description]
+Description="An MD5 Digest implementation."
+Summary="OpenG MD5 Digest"
+License=LGPL
+Copyright="2004 Enrique Vargas"
+Distribution="OpenG Toolkit"
+Icon=../source/images/md5.bmp
+Vendor=OpenG.org
+URL=http://openg.org/md5
+Packager="Jim Kring <jim@jimkring.com>"
+
+[Platform]
+Exclusive_LabVIEW_Version=>=6.1
+Exclusive_LabVIEW_System=All
+Exclusive_OS=All
+
+[Script VIs]
+Source Dir=""
+PreInstall=""
+PostInstall=""
+PreUninstall=""
+PostUninstall=""
+Verify=""
+PreBuild=""
+PostBuild=""
+
+[Dependencies]
+AutoReqProv=FALSE
+Requires=""
+Conflicts=""
+
+[Files]
+Num File Groups=3
+
+[File Group 0]
+Source Dir=../built/md5
+Target Dir=<OpenG.lib>/md5
+Replace Mode=Never
+Num Files=1
+File 0="md5.llb/*"
+
+[File Group 1]
+Source Dir=../source/mnu
+Target Dir=<user.lib>/_dynamicpalette_dirs/adv
+Replace Mode=Never
+Num Files=1
+File 0=oglib_md5.mnu
+
+[File Group 2]
+Source Dir=../source/mnu
+Target Dir=<user.lib>/_dynamicpalette_dirs/OpenG
+Replace Mode=Never
+Num Files=1
+File 0=oglib_md5.mnu
+
