@@ -1,6 +1,6 @@
 [Package Name]
 Name=oglib_md5
-Version=1.3
+Version=1.4
 Release=1
 
 [Description]
@@ -40,21 +40,21 @@ Num File Groups=3
 [File Group 0]
 Source Dir=../built/md5
 Target Dir=<OpenG.lib>/md5
-Replace Mode=Never
+Replace Mode=Always
 Num Files=1
 File 0="md5.llb/*"
 
 [File Group 1]
 Source Dir=../source/mnu
 Target Dir=<user.lib>/_dynamicpalette_dirs/adv
-Replace Mode=Never
+Replace Mode=Always
 Num Files=1
 File 0=oglib_md5.mnu
 
 [File Group 2]
 Source Dir=../source/mnu
 Target Dir=<user.lib>/_dynamicpalette_dirs/OpenG
-Replace Mode=Never
+Replace Mode=Always
 Num Files=1
 File 0=oglib_md5.mnu
 
