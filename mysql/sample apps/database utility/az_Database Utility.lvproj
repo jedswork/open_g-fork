@@ -19,10 +19,10 @@
          <Item Name="az_Column Type.ctl" Type="VI" URL="Type Defs/az_Column Type.ctl"/>
          <Item Name="az_Main Data.ctl" Type="VI" URL="Type Defs/az_Main Data.ctl"/>
       </Item>
-      <Item Name="Az_Database Utility.vi" Type="VI" URL="Az_Database Utility.vi"/>
-      <Item Name="Az_Main Shifter.vi" Type="VI" URL="Az_Main Shifter.vi"/>
-      <Item Name="Az_MySQL Login.vi" Type="VI" URL="Az_MySQL Login.vi"/>
+      <Item Name="Az_Main Shifter.vi" Type="VI" URL="az_Main Shifter.vi"/>
+      <Item Name="az_Database Utility.vi" Type="VI" URL="Az_Database Utility.vi"/>
       <Item Name="az_Verify Tables.vi" Type="VI" URL="az_Verify Tables.vi"/>
+      <Item Name="Az_MySQL Login.vi" Type="VI" URL="az_MySQL Login.vi"/>
       <Item Name="az_Verify Table.vi" Type="VI" URL="Az_Verify Table.vi"/>
       <Item Name="az_Table Defs.vi" Type="VI" URL="az_Table Defs.vi"/>
       <Item Name="az_Search for Foreign Key.vi" Type="VI" URL="az_Search for Foreign Key.vi"/>
@@ -77,6 +77,7 @@
             </Item>
          </Item>
       </Item>
+      <Item Name="az_User Login Window.vi" Type="VI" URL="az_User Login Window.vi"/>
       <Item Name="Dependencies" Type="Dependencies"/>
       <Item Name="Build Specifications" Type="Build"/>
    </Item>
