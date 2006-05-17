@@ -18,6 +18,7 @@
          <Item Name="az_Column Defs.ctl" Type="VI" URL="Type Defs/az_Column Defs.ctl"/>
          <Item Name="az_Column Type.ctl" Type="VI" URL="Type Defs/az_Column Type.ctl"/>
          <Item Name="az_User Info Def.ctl" Type="VI" URL="Type Defs/az_User Info Def.ctl"/>
+         <Item Name="az_Filters.ctl" Type="VI" URL="Type Defs/az_Filters.ctl"/>
          <Item Name="az_Main Data.ctl" Type="VI" URL="Type Defs/az_Main Data.ctl"/>
       </Item>
       <Item Name="Database Functions" Type="Folder">
@@ -38,6 +39,9 @@
       <Item Name="az_Add User.vi" Type="VI" URL="az_Add User.vi"/>
       <Item Name="Add Quote.vi" Type="VI" URL="Add Quote.vi"/>
       <Item Name="az_User Login Window.vi" Type="VI" URL="az_User Login Window.vi"/>
+      <Item Name="az_Apply Filter.vi" Type="VI" URL="az_Apply Filter.vi"/>
+      <Item Name="az_Update Filters.vi" Type="VI" URL="az_Update Filters.vi"/>
+      <Item Name="az_Create Filter SQL.vi" Type="VI" URL="az_Create Filter SQL.vi"/>
       <Item Name="MySQL.lvlib" Type="Library" URL="../../source/MySQL.lvlib">
          <Item Name="Public" Type="Folder">
             <Item Name="Open.vi" Type="VI" URL="../../source/Public/Open.vi"/>
