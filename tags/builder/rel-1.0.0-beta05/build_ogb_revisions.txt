@@ -1,0 +1,39 @@
+[build_ogb.deab]
+Version=1.0.0-beta05
+Build_Number=267
+Build_Date="5/17/2006 9:37:13 PM"
+Status=OK
+Warnings=1
+Log_File=/D/Projects/OpenG/opengtoolkit/SVN_Folders/builder/built/build_ogb.log
+
+[build_ogb_api.deab]
+Version=1.0.0-beta05
+Build_Number=170
+Build_Date="5/17/2006 9:40:59 PM"
+Status=OK
+Warnings=0
+Log_File=/D/Projects/OpenG/opengtoolkit/SVN_Folders/builder/built/build_ogb_api.log
+
+[build_ogb_deab.deab]
+Version=1.0.0-beta05
+Build_Number=79
+Build_Date="5/17/2006 9:41:06 PM"
+Status=OK
+Warnings=0
+Log_File=/D/Projects/OpenG/opengtoolkit/SVN_Folders/builder/built/build_ogb_deab.log
+
+[build_ogb_help.deab]
+Version=1.0.0-beta05
+Build_Number=125
+Build_Date="5/17/2006 9:41:11 PM"
+Status=OK
+Warnings=0
+Log_File=/D/Projects/OpenG/opengtoolkit/SVN_Folders/builder/built/build_ogb_help.log
+
+[build_ogmsiib.deab]
+Version=1.0.0-alpha2
+Build_Number=24
+Build_Date="4/29/2005 4:08:34 PM"
+Status=OK
+Warnings=0
+Log_File=/D/Projects/OpenG/opengtoolkit/CVS_Folders/deab/built/build_ogmsiib.log
