@@ -53,7 +53,7 @@ Num File Groups=5
 
 Source Dir=../built/library
 
-Target Dir=<OpenG.lib>/array
+Target Dir=<OpenG.lib>/{library}
 
 Replace Mode=Always
 
