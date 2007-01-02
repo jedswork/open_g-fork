@@ -1,21 +1,21 @@
 [Package Name]
 
-Name=oglib_{library}
+Name=oglib_msgqueue
 
-Version=2.5
+Version=2.3
 
 Release=1
 
 
 [Description]
 
-Description="The {library} package contains several routines for operating on {library} data."
+Description="The message queue generates a response notifier to reply to messages"
 
-Summary="OpenG {library} Tools"
+Summary="OpenG Message Queue"
 
 License=BSD
 
-Copyright="2002-2006 Cal-Bay Systems, Inc., Jim Kring.  2006 MKS Instruments, Inc.  All rights reserved."
+Copyright="2002 Jim Kring"
 
 Distribution="OpenG Toolkit"
 
@@ -23,7 +23,7 @@ Icon=../source/icon.bmp
 
 Vendor=OpenG.org
 
-URL=http://opengtoolkit.sourceforge.net/{library}
+URL=http://opengtoolkit.sourceforge.net/msgqueue
 
 Packager="Jim Kring <jim@jimkring.com>"
 
@@ -53,26 +53,26 @@ Num File Groups=5
 
 Source Dir=../built/library
 
-Target Dir=<OpenG.lib>/{library}
+Target Dir=<OpenG.lib>/msgqueue
 
 Replace Mode=Always
 
 Num Files=1
 
-File 0="{library}.llb/*"
+File 0="msgqueue.llb/*"
 
 
 [File Group 1]
 
 Source Dir="../source"
 
-Target Dir="<user.lib>/_dynamicpalette_dirs/{library}"
+Target Dir="<user.lib>/_dynamicpalette_dirs/synch"
 
 Replace Mode=Always
 
 Num Files=1
 
-File 0=oglib_{library}.mnu
+File 0=oglib_msgqueue.mnu
 
 
 [File Group 2]
@@ -85,14 +85,14 @@ Replace Mode=Always
 
 Num Files=1
 
-File 0=oglib_{library}.mnu
+File 0=oglib_msgqueue.mnu
 
 
 [File Group 3]
 
 Source Dir=../built/help
 
-Target Dir=<help>/OpenG/{library}
+Target Dir=<help>/OpenG/msgqueue
 
 Replace Mode=Always
 
@@ -104,7 +104,7 @@ File 0=*.*
 [File Group 4]
 Source Dir=../examples
 
-Target Dir=<application>/examples/OpenG/{library}
+Target Dir=<application>/examples/OpenG/msgqueue
 
 Replace Mode=Always
 
