@@ -30,7 +30,7 @@ Packager="Jim Kring <jim@jimkring.com>"
 
 [Dependencies]
 
-Requires=ogrsc_dynamicpalette>=2.0,nirsc_html_help_common>=1.0,oglib_error>=2.0,oglib_string>=2.0,oglib_lvdata>=2.0
+Requires="ogrsc_dynamicpalette>=0.2,nirsc_html_help_common>=1.0"
 
 AutoReqProv=FALSE
 
@@ -46,7 +46,7 @@ Exclusive_OS=All
 
 [Files]
 
-Num File Groups=5
+Num File Groups=7
 
 
 [File Group 0]
@@ -64,6 +64,36 @@ File 0="msgqueue.llb/*"
 
 [File Group 1]
 
+Exclusive_LabVIEW_Version="6.0, 6.1"
+
+Source Dir=../built/library_6x
+
+Target Dir=<OpenG.lib>/msgqueue/msgqueue.llb
+
+Replace Mode=Always
+
+Num Files=1
+
+File 0="*"
+
+
+[File Group 2]
+
+Exclusive_LabVIEW_Version=">=7.0"
+
+Source Dir=../built/library_7x
+
+Target Dir=<OpenG.lib>/msgqueue/msgqueue.llb
+
+Replace Mode=Always
+
+Num Files=1
+
+File 0="*"
+
+
+[File Group 3]
+
 Source Dir="../source"
 
 Target Dir="<user.lib>/_dynamicpalette_dirs/synch"
@@ -75,7 +105,7 @@ Num Files=1
 File 0=oglib_msgqueue.mnu
 
 
-[File Group 2]
+[File Group 4]
 
 Source Dir="../source"
 
@@ -88,7 +118,7 @@ Num Files=1
 File 0=oglib_msgqueue.mnu
 
 
-[File Group 3]
+[File Group 5]
 
 Source Dir=../built/help
 
@@ -101,7 +131,7 @@ Num Files=1
 File 0=*.*
 
 
-[File Group 4]
+[File Group 6]
 Source Dir=../examples
 
 Target Dir=<application>/examples/OpenG/msgqueue
