@@ -2,4 +2,4 @@
 [MOD] Changed license from LGPL to BSD
 [FIX] Made inputs of refnum typcasting functions required
 [FIX] In "Create Response Notifier.vi", made "msg queue" input required
-[FIX] In "Insert Msg Queue Element.vi", "msg queue" reference was not being passed into "Create Response Notifier.vi" subVI
+[FIX] In "Insert Msg Queue Element.vi", replaced "Create Response Notifier.vi" with a call to "Create Notifier.vi" and no longer creating a named notifier.
