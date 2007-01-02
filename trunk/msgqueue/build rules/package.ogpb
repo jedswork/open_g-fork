@@ -46,7 +46,7 @@ Exclusive_OS=All
 
 [Files]
 
-Num File Groups=7
+Num File Groups=8
 
 
 [File Group 0]
@@ -94,6 +94,19 @@ File 0="*"
 
 [File Group 3]
 
+Source Dir="../source/palette submenus"
+
+Target Dir="<OpenG.lib>/msgqueue"
+
+Replace Mode=Always
+
+Num Files=1
+
+File 0=classic_notifier.mnu
+
+
+[File Group 4]
+
 Source Dir="../source"
 
 Target Dir="<user.lib>/_dynamicpalette_dirs/synch"
@@ -105,7 +118,7 @@ Num Files=1
 File 0=oglib_msgqueue.mnu
 
 
-[File Group 4]
+[File Group 5]
 
 Source Dir="../source"
 
@@ -118,7 +131,7 @@ Num Files=1
 File 0=oglib_msgqueue.mnu
 
 
-[File Group 5]
+[File Group 6]
 
 Source Dir=../built/help
 
@@ -131,7 +144,7 @@ Num Files=1
 File 0=*.*
 
 
-[File Group 6]
+[File Group 7]
 Source Dir=../examples
 
 Target Dir=<application>/examples/OpenG/msgqueue
