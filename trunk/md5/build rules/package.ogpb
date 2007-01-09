@@ -1,21 +1,19 @@
 [Package Name]
 
-Name=oglib_{library}
+Name=oglib_md5
 
-Version=2.5
+Version=1.6
 
 Release=1
 
 
 [Description]
+Description="An MD5 Digest implementation."
 
-Description="The {library} package contains several routines for operating on {library} data."
-
-Summary="OpenG {library} Tools"
+Summary="OpenG MD5 Digest"
 
 License=BSD
-
-Copyright="2002-2006 Cal-Bay Systems, Inc., Jim Kring.  2006 MKS Instruments, Inc.  All rights reserved."
+Copyright="2004 Enrique Vargas"
 
 Distribution="OpenG Toolkit"
 
@@ -23,14 +21,14 @@ Icon=../source/icon.bmp
 
 Vendor=OpenG.org
 
-URL=http://opengtoolkit.sourceforge.net/{library}
+URL=http://opengtoolkit.sourceforge.net/md5
 
 Packager="Jim Kring <jim@jimkring.com>"
 
 
 [Dependencies]
 
-Requires=ogrsc_dynamicpalette>=2.0,nirsc_html_help_common>=1.0,oglib_error>=2.0,oglib_string>=2.0,oglib_lvdata>=2.0
+Requires=ogrsc_dynamicpalette>=0.2
 
 AutoReqProv=FALSE
 
@@ -53,26 +51,26 @@ Num File Groups=5
 
 Source Dir=../built/library
 
-Target Dir=<OpenG.lib>/{library}
+Target Dir=<OpenG.lib>/md5
 
 Replace Mode=Always
 
 Num Files=1
 
-File 0="{library}.llb/*"
+File 0="md5.llb/*"
 
 
 [File Group 1]
 
 Source Dir="../source"
 
-Target Dir="<user.lib>/_dynamicpalette_dirs/{library}"
+Target Dir=<user.lib>/_dynamicpalette_dirs/adv
 
 Replace Mode=Always
 
 Num Files=1
 
-File 0=oglib_{library}.mnu
+File 0=oglib_md5.mnu
 
 
 [File Group 2]
@@ -85,14 +83,14 @@ Replace Mode=Always
 
 Num Files=1
 
-File 0=oglib_{library}.mnu
+File 0=oglib_md5.mnu
 
 
 [File Group 3]
 
 Source Dir=../built/help
 
-Target Dir=<help>/OpenG/{library}
+Target Dir=<help>/OpenG/md5
 
 Replace Mode=Always
 
@@ -104,7 +102,7 @@ File 0=*.*
 [File Group 4]
 Source Dir=../examples
 
-Target Dir=<application>/examples/OpenG/{library}
+Target Dir=<application>/examples/OpenG/md5
 
 Replace Mode=Always
 
