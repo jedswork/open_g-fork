@@ -1,3 +1,0 @@
-2007-01-09 
-[MOD] Changed license from LGPL to BSD
-[FIX] In "MD5 Message Digest.vi", made "Message" string input required.
