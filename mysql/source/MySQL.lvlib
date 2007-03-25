@@ -1,5 +1,5 @@
 <?xml version='1.0'?>
-<Library LVVersion="8008005">
+<Library LVVersion="8208000">
    <Property Name="NI.Lib.Description" Type="Str">MySQL.vilib
 
 A native MySQL Library for LabVIEW
@@ -48,8 +48,6 @@ Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307 USA
       <Item Name="Get Field Length Encoding Data.vi" Type="VI" URL="Private/Get Field Length Encoding Data.vi"/>
       <Item Name="Read Field Descriptors.vi" Type="VI" URL="Private/Read Field Descriptors.vi"/>
       <Item Name="Get Row Data.vi" Type="VI" URL="Private/Get Row Data.vi"/>
-   </Item>
-   <Item Name="RFC3174 SHA-1" Type="Folder">
-      <Item Name="RFC3174.lvlib" Type="Library" URL="RFC3174/RFC3174.lvlib"/>
+      <Item Name="sha1.vi" Type="VI" URL="Private/sha1.vi"/>
    </Item>
 </Library>
