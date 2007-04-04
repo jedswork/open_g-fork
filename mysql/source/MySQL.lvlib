@@ -26,14 +26,14 @@ Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307 USA
    <Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
    <Item Name="Public" Type="Folder">
       <Item Name="Data Types" Type="Folder">
-         <Item Name="Table Type.ctl" Type="VI" URL="Public/Data Types/Table Type.ctl"/>
          <Item Name="SQL Column Type.ctl" Type="VI" URL="Public/Data Types/SQL Column Type.ctl"/>
       </Item>
-      <Item Name="Open.vi" Type="VI" URL="Public/Open.vi"/>
       <Item Name="Close.vi" Type="VI" URL="Public/Close.vi"/>
+      <Item Name="Execute.vi" Type="VI" URL="Public/Execute.vi"/>
+      <Item Name="Open.vi" Type="VI" URL="Public/Open.vi"/>
       <Item Name="Set Default dB.vi" Type="VI" URL="Public/Set Default dB.vi"/>
       <Item Name="Table Create.vi" Type="VI" URL="Public/Table Create.vi"/>
-      <Item Name="Execute.vi" Type="VI" URL="Public/Execute.vi"/>
+      <Item Name="Table Delete.vi" Type="VI" URL="Public/Table Delete.vi"/>
    </Item>
    <Item Name="Private" Type="Folder">
       <Property Name="NI.LibItem.Scope" Type="Int">2</Property>
@@ -42,19 +42,19 @@ Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307 USA
          <Item Name="Commands.ctl" Type="VI" URL="Private/Data Types/Commands.ctl"/>
          <Item Name="Field Descriptor.ctl" Type="VI" URL="Private/Data Types/Field Descriptor.ctl"/>
       </Item>
+      <Item Name="Check for Error.vi" Type="VI" URL="Private/Check for Error.vi"/>
+      <Item Name="Column Type SQL.vi" Type="VI" URL="Private/Column Type SQL.vi"/>
+      <Item Name="Create Authentication Packet.vi" Type="VI" URL="Private/Create Authentication Packet.vi"/>
+      <Item Name="Get Field Length Encoding Data.vi" Type="VI" URL="Private/Get Field Length Encoding Data.vi"/>
+      <Item Name="Get Row Data.vi" Type="VI" URL="Private/Get Row Data.vi"/>
+      <Item Name="Get Table Info Response.vi" Type="VI" URL="Private/Get Table Info Response.vi"/>
+      <Item Name="Packet Counter.vi" Type="VI" URL="Private/Packet Counter.vi"/>
+      <Item Name="Read Field Descriptors.vi" Type="VI" URL="Private/Read Field Descriptors.vi"/>
+      <Item Name="Read Packet.vi" Type="VI" URL="Private/Read Packet.vi"/>
+      <Item Name="Scramble Password.vi" Type="VI" URL="Private/Scramble Password.vi"/>
       <Item Name="Send Command.vi" Type="VI" URL="Private/Send Command.vi"/>
       <Item Name="Server Greeting.vi" Type="VI" URL="Private/Server Greeting.vi"/>
-      <Item Name="Read Packet.vi" Type="VI" URL="Private/Read Packet.vi"/>
-      <Item Name="Create Authentication Packet.vi" Type="VI" URL="Private/Create Authentication Packet.vi"/>
-      <Item Name="Scramble Password.vi" Type="VI" URL="Private/Scramble Password.vi"/>
-      <Item Name="Write Packet.vi" Type="VI" URL="Private/Write Packet.vi"/>
-      <Item Name="Packet Counter.vi" Type="VI" URL="Private/Packet Counter.vi"/>
-      <Item Name="Check for Error.vi" Type="VI" URL="Private/Check for Error.vi"/>
-      <Item Name="Get Table Info Response.vi" Type="VI" URL="Private/Get Table Info Response.vi"/>
-      <Item Name="Get Field Length Encoding Data.vi" Type="VI" URL="Private/Get Field Length Encoding Data.vi"/>
-      <Item Name="Read Field Descriptors.vi" Type="VI" URL="Private/Read Field Descriptors.vi"/>
-      <Item Name="Get Row Data.vi" Type="VI" URL="Private/Get Row Data.vi"/>
       <Item Name="sha1.vi" Type="VI" URL="Private/sha1.vi"/>
-      <Item Name="Column Type SQL.vi" Type="VI" URL="Private/Column Type SQL.vi"/>
+      <Item Name="Write Packet.vi" Type="VI" URL="Private/Write Packet.vi"/>
    </Item>
 </Library>
