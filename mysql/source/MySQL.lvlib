@@ -27,12 +27,13 @@ Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307 USA
    <Item Name="Public" Type="Folder">
       <Item Name="Data Types" Type="Folder">
          <Item Name="Table Type.ctl" Type="VI" URL="Public/Data Types/Table Type.ctl"/>
+         <Item Name="SQL Column Type.ctl" Type="VI" URL="Public/Data Types/SQL Column Type.ctl"/>
       </Item>
       <Item Name="Open.vi" Type="VI" URL="Public/Open.vi"/>
       <Item Name="Close.vi" Type="VI" URL="Public/Close.vi"/>
-      <Item Name="Query.vi" Type="VI" URL="Public/Query.vi"/>
       <Item Name="Set Default dB.vi" Type="VI" URL="Public/Set Default dB.vi"/>
       <Item Name="Table Create.vi" Type="VI" URL="Public/Table Create.vi"/>
+      <Item Name="Execute.vi" Type="VI" URL="Public/Execute.vi"/>
    </Item>
    <Item Name="Private" Type="Folder">
       <Property Name="NI.LibItem.Scope" Type="Int">2</Property>
@@ -54,5 +55,6 @@ Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307 USA
       <Item Name="Read Field Descriptors.vi" Type="VI" URL="Private/Read Field Descriptors.vi"/>
       <Item Name="Get Row Data.vi" Type="VI" URL="Private/Get Row Data.vi"/>
       <Item Name="sha1.vi" Type="VI" URL="Private/sha1.vi"/>
+      <Item Name="Column Type SQL.vi" Type="VI" URL="Private/Column Type SQL.vi"/>
    </Item>
 </Library>
