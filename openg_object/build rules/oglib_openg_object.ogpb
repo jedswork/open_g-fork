@@ -1,0 +1,60 @@
+[Package Name]
+Name=oglib_openg_object
+Version=0.1
+Release=2
+
+[Description]
+Description="OpenG Base Classes for LabVIEW Object Oriented Programming"
+Summary="OpenG Base Classes"
+License=BSD
+Copyright="Copyright (c) 2007 Tomi Maila. All rights reserved."
+Distribution="OpenG Toolkit"
+Icon=../resource/Icon.bmp
+Vendor=OpenG.org
+URL=""
+Packager="Tomi Maila <tomi.maila@iki.fi>"
+
+[Platform]
+Exclusive_LabVIEW_Version=>=8.2
+Exclusive_LabVIEW_System="Development System"
+Exclusive_OS=ALL
+
+[Script VIs]
+Source Dir=""
+PreInstall=""
+PostInstall=""
+PreUninstall=""
+PostUninstall=""
+Verify=""
+PreBuild=""
+PostBuild=""
+
+[Dependencies]
+AutoReqProv=FALSE
+Requires=""
+Conflicts=""
+
+[Files]
+Num File Groups=3
+
+[File Group 0]
+Source Dir=../source/library/_probes/default
+Target Dir=<user.lib>/_probes/default
+Replace Mode=Always
+Num Files=1
+File 0=*.*
+
+[File Group 1]
+Source Dir=../source/library/_OpenG.lib/openg_object/openg_object.llb
+Target Dir=<OpenG.lib>/openg_object/openg_object.llb
+Replace Mode=Always
+Num Files=1
+File 0=*.*
+
+[File Group 2]
+Source Dir=../source/library/_OpenG.lib/openg_object/openg_reference_object.llb
+Target Dir=<OpenG.lib>/openg_object/openg_reference_object.llb
+Replace Mode=Always
+Num Files=1
+File 0=*.*
+
