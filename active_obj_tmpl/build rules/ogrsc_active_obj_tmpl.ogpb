@@ -1,0 +1,109 @@
+[Package Name]
+Name=ogrsc_active_obj_tmpl
+Version=0.1
+Release=3
+
+[Description]
+Description="Template for active asynchronous by-reference object classes in LabVIEW Object-Oriented Programming"
+Summary="OpenG Reference Object Template"
+License=BSD
+Copyright="Copyright (c) 2007 Tomi Maila. All rights reserved."
+Distribution="OpenG Toolkit"
+Icon=../resource/icon.bmp
+Vendor=OpenG.org
+URL=""
+Packager="Tomi Maila <tomi.maila@iki.fi>"
+
+[Platform]
+Exclusive_LabVIEW_Version=>=8.2
+Exclusive_LabVIEW_System="Development System"
+Exclusive_OS=ALL
+
+[Script VIs]
+Source Dir=""
+PreInstall=""
+PostInstall=""
+PreUninstall=""
+PostUninstall=""
+Verify=""
+PreBuild=""
+PostBuild=""
+
+[Dependencies]
+AutoReqProv=FALSE
+Requires=oglib_openg_object>=0.1
+Conflicts=""
+
+[Files]
+Num File Groups=10
+
+[File Group 0]
+Source Dir=../source/template
+Target Dir=<resource>/OpenG/openg_object/class_templates/OpenG_Active_Object_Template
+Replace Mode=Always
+Num Files=1
+File 0=*.*
+
+[File Group 1]
+Source Dir=../source/template/Templates
+Target Dir=<resource>/OpenG/openg_object/class_templates/OpenG_Active_Object_Template/Templates
+Replace Mode=Always
+Num Files=1
+File 0=*.*
+
+[File Group 2]
+Source Dir=../source/template/Internal
+Target Dir=<resource>/OpenG/openg_object/class_templates/OpenG_Active_Object_Template/Internal
+Replace Mode=Always
+Num Files=1
+File 0=*.*
+
+[File Group 3]
+Source Dir=../source/template/Data_Access
+Target Dir=<resource>/OpenG/openg_object/class_templates/OpenG_Active_Object_Template/Data_Access
+Replace Mode=Always
+Num Files=1
+File 0=*.*
+
+[File Group 4]
+Source Dir=../source/template/Definitions
+Target Dir=<resource>/OpenG/openg_object/class_templates/OpenG_Active_Object_Template/Definitions
+Replace Mode=Always
+Num Files=1
+File 0=*.*
+
+[File Group 5]
+Source Dir=../source/template/Definitions/Transformations
+Target Dir=<resource>/OpenG/openg_object/class_templates/OpenG_Active_Object_Template/Definitions/Transformations
+Replace Mode=Always
+Num Files=1
+File 0=*.*
+
+[File Group 6]
+Source Dir=../source/template/Definitions/Data
+Target Dir=<resource>/OpenG/openg_object/class_templates/OpenG_Active_Object_Template/Definitions/Data
+Replace Mode=Always
+Num Files=1
+File 0=*.*
+
+[File Group 7]
+Source Dir=../source/template/Definitions/Construction_&_Destruction
+Target Dir=<resource>/OpenG/openg_object/class_templates/OpenG_Active_Object_Template/Definitions/Construction_&_Destruction
+Replace Mode=Always
+Num Files=1
+File 0=*.*
+
+[File Group 8]
+Source Dir=../source/template/Definitions/Process
+Target Dir=<resource>/OpenG/openg_object/class_templates/OpenG_Active_Object_Template/Definitions/Process
+Replace Mode=Always
+Num Files=1
+File 0=*.*
+
+[File Group 9]
+Source Dir=../source/template/Process_Control_And_Messaging
+Target Dir=<resource>/OpenG/openg_object/class_templates/OpenG_Active_Object_Template/Process_Control_And_Messaging
+Replace Mode=Always
+Num Files=1
+File 0=*.*
+
