@@ -1,7 +1,7 @@
 [Package Name]
 Name=ogrsc_ref_obj_tmpl
-Version=0.1
-Release=2
+Version=0.2
+Release=0
 
 [Description]
 Description="Template for queue based by-reference classes in LabVIEW Object-Oriented Programming"
@@ -31,65 +31,47 @@ PostBuild=""
 
 [Dependencies]
 AutoReqProv=FALSE
-Requires=oglib_openg_object>=0.1
+Requires=oglib_openg_object>=0.2
 Conflicts=""
 
 [Files]
-Num File Groups=8
+Num File Groups=1
 
 [File Group 0]
 Source Dir=../source/template
 Target Dir=<resource>/OpenG/openg_object/class_templates/OpenG_Reference_Object_Template
 Replace Mode=Always
-Num Files=1
-File 0=*.*
-
-[File Group 1]
-Source Dir=../source/template/Templates
-Target Dir=<resource>/OpenG/openg_object/class_templates/OpenG_Reference_Object_Template/Templates
-Replace Mode=Always
-Num Files=1
-File 0=*.*
-
-[File Group 2]
-Source Dir=../source/template/Internal
-Target Dir=<resource>/OpenG/openg_object/class_templates/OpenG_Reference_Object_Template/Internal
-Replace Mode=Always
-Num Files=1
-File 0=*.*
-
-[File Group 3]
-Source Dir=../source/template/Data_Access
-Target Dir=<resource>/OpenG/openg_object/class_templates/OpenG_Reference_Object_Template/Data_Access
-Replace Mode=Always
-Num Files=1
-File 0=*.*
-
-[File Group 4]
-Source Dir=../source/template/Definitions
-Target Dir=<resource>/OpenG/openg_object/class_templates/OpenG_Reference_Object_Template/Definitions
-Replace Mode=Always
-Num Files=1
-File 0=*.*
-
-[File Group 5]
-Source Dir=../source/template/Definitions/Transformations
-Target Dir=<resource>/OpenG/openg_object/class_templates/OpenG_Reference_Object_Template/Definitions/Transformations
-Replace Mode=Always
-Num Files=1
-File 0=*.*
-
-[File Group 6]
-Source Dir=../source/template/Definitions/Data
-Target Dir=<resource>/OpenG/openg_object/class_templates/OpenG_Reference_Object_Template/Definitions/Data
-Replace Mode=Always
-Num Files=1
-File 0=*.*
-
-[File Group 7]
-Source Dir=../source/template/Definitions/Construction_&_Destruction
-Target Dir=<resource>/OpenG/openg_object/class_templates/OpenG_Reference_Object_Template/Definitions/Construction_&_Destruction
-Replace Mode=Always
-Num Files=1
-File 0=*.*
+Num Files=32
+File 0=ClassHierarchy.vi
+File 1=Clone.vi
+File 2=Close.vi
+File 3=Create_OpenG_Reference_Object_Template.vi
+File 4=OpenG_Reference_Object_Template.lvclass
+File 5=Templates/AlternativeCreate_OpenG_Reference_Object_Template.vi
+File 6=Templates/Atomic_OpenG_Reference_Object_Template.vi
+File 7=Templates/FunctionalClassVariable_OpenG_Reference_Object_Template.vi
+File 8=Templates/GetProperty_OpenG_Reference_Object_Template.vi
+File 9=Templates/NoneModifing_OpenG_Reference_Object_Template.vi
+File 10=Templates/ReadData_OpenG_Reference_Object_Template.vi
+File 11=Templates/ReadWriteData_OpenG_Reference_Object_Template.vi
+File 12=Templates/SetProperty_OpenG_Reference_Object_Template.vi
+File 13=Templates/WriteData_OpenG_Reference_Object_Template.vi
+File 14=Internal/CleanUp.vi
+File 15=Internal/Finalize.vi
+File 16=Internal/FlattenToXMLInternal.vi
+File 17=Internal/Initialize.vi
+File 18=Internal/ObjectFactory_OpenG_Reference_Object_Template.vi
+File 19=Internal/Reset.vi
+File 20=Definitions/Version_OpenG_Reference_Object_Template.vi
+File 21=Definitions/Transformations/PrivateDataToXML_OpenG_Reference_Object_Template.vi
+File 22=Definitions/Data/ObjectParameters_OpenG_Reference_Object_Template.ctl
+File 23=Definitions/Data/ObjectPrivateData_OpenG_Reference_Object_Template.ctl
+File 24=Definitions/Construction_&_Destruction/CloneConstructor.vi
+File 25=Definitions/Construction_&_Destruction/Constructor_OpenG_Reference_Object_Template.vi
+File 26=Definitions/Construction_&_Destruction/Destructor_OpenG_Reference_Object_Template.vi
+File 27=Data_Access/GetData_OpenG_Reference_Object_Template.vi
+File 28=Data_Access/GetDataInstantly_OpenG_Reference_Object_Template.vi
+File 29=Data_Access/PreviewData_OpenG_Reference_Object_Template.vi
+File 30=Data_Access/PreviewDataInstantly_OpenG_Reference_Object_Template.vi
+File 31=Data_Access/SetData_OpenG_Reference_Object_Template.vi
 
