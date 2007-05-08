@@ -1,4 +1,4 @@
-<?xml version='1.0'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LVClass LVVersion="8208000">
    <Property Name="NI.Lib.HelpPath" Type="Str"></Property>
    <Property Name="NI.Lib.Icon" Type="Bin">###!!!!!!!Y!%%!$#GFN97&gt;F)(2Z='5!!""!!QNJ&lt;7&amp;H:3"E:8"U;!!%!!5!%E"!!!(`````!!)&amp;;7VB:W5!%E"!!!(`````!!)%&lt;7&amp;T;Q!!"!!(!"2!1!!"`````Q!&amp;"G.P&lt;'^S=Q!!#E!#"'RF:H1!!!B!!A.U&lt;X!!#E!#"8*J:WBU!!R!!A:C&lt;X2U&lt;WU!!"B!5!!%!!=!#!!*!!I*5G6D&gt;'&amp;O:WRF!$A!]1!!!!!!!!!"$7FN97&gt;F:'&amp;U93ZD&gt;'Q!)E"1!!9!!!!"!!-!"!!'!!M+37VB:W5A:'&amp;U91!!#A"1!!)!$!!-!!%!$1!!!!!!!!!)!!!%!0```````````````````````````````````````````Q%"!1%"!1%"!1%"!1%"!1%"!1%"!1%"!1%"!1%"!@``!1%"!1%"!1%"!1%"!1%"!1%"!1%"!1%"!1%"!1%"``]"!1(``Q%"````!1%"!@]"````!1(``Q%"````!1(``Q%"`Q%"`Q(`!1(`!1%"`Q(`!1%"`Q%"`Q%"`Q%"!@``!1(`!1(`!@```Q%"!1(`!@``!1(`!1%"!1(`!1%"``]"!@]"!@]"`Q%"`Q(`!@]"`Q%"!@]"!@]"!@]"!1(``Q%"!@``!1(```]"!@``!1(```]"!@``!1%"`Q%"!@``!1%"!1%"!1%"!1%"!1%"!1%"!1%"!1%"!1%"!1%"`````````````````````````````````````````````Q!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!0``!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!``]!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!$``Q!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!0``!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!``]!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!$``Q!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!0``!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!``]!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!$``Q!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!0``!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!``]!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!$``Q!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!0``!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!``]!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!$``Q!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!0``!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!``]!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!$``Q!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!0``!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!``]!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!$```````````````````````````````````````````]!!!#!``````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````]!!!%!!0```Q$``]Q!``_:!0``:A$``T-!``]!!0`-`Q$`T-Q!`]S:!0`-:A$`T$-!`]Q!!0_:`Q$`G=Q!`ZG:!0_::A$`G4-!`ZE!!0^G`Q$`:MQ!`W;:!0^G:A$`:D-!`W9!!0]T`Q$`-]Q!`T/:!0]T:A$`-T-!`T-!!0]!`Q$`!-Q!`Q#:!0]!:A$`!$-!`Q!!!-T``Q$-`]Q!T0_:!-T`:A$-`T-!T0]!!-T-`Q$-T-Q!T-S:!-T-:A$-T$-!T-Q!!-S:`Q$-G=Q!T*G:!-S::A$-G4-!T*E!!-RG`Q$-:MQ!T';:!-RG:A$-:D-!T'9!!-QT`Q$--]Q!T$/:!-QT:A$--T-!T$-!!-Q!`Q$-!-Q!T!#:!-Q!:A$-!$-!T!!!!*H``Q#:`]Q!G@_:!*H`:A#:`T-!G@]!!*H-`Q#:T-Q!G=S:!*H-:A#:T$-!G=Q!!*G:`Q#:G=Q!G:G:!*G::A#:G4-!G:E!!*FG`Q#::MQ!G7;:!*FG:A#::D-!G79!!*ET`Q#:-]Q!G4/:!*ET:A#:-T-!G4-!!*E!`Q#:!-Q!G1#:!*E!:A#:!$-!G1!!!'&lt;``Q"G`]Q!:P_:!'&lt;`:A"G`T-!:P]!!'&lt;-`Q"GT-Q!:MS:!'&lt;-:A"GT$-!:MQ!!';:`Q"GG=Q!:JG:!';::A"GG4-!:JE!!':G`Q"G:MQ!:G;:!':G:A"G:D-!:G9!!'9T`Q"G-]Q!:D/:!'9T:A"G-T-!:D-!!'9!`Q"G!-Q!:A#:!'9!:A"G!$-!:A!!!$0``Q!T`]Q!-`_:!$0`:A!T`T-!-`]!!$0-`Q!TT-Q!-]S:!$0-:A!TT$-!-]Q!!$/:`Q!TG=Q!-ZG:!$/::A!TG4-!-ZE!!$.G`Q!T:MQ!-W;:!$.G:A!T:D-!-W9!!$-T`Q!T-]Q!-T/:!$-T:A!T-T-!-T-!!$-!`Q!T!-Q!-Q#:!$-!:A!T!$-!-Q!!!!$``Q!!`]Q!!0_:!!$`:A!!`T-!!0]!!!$-`Q!!T-Q!!-S:!!$-:A!!T$-!!-Q!!!#:`Q!!G=Q!!*G:!!#::A!!G4-!!*E!!!"G`Q!!:MQ!!';:!!"G:A!!:D-!!'9!!!!T`Q!!-]Q!!$/:!!!T:A!!-T-!!$-!!!!!`Q!!!-Q!!!#:!!!!:A!!!$-!\A!!!.U!!!#\!!!!KA!!!)A!!!"X!!!!61!!!%1!!!!C!!!!%1!!!!$O!!!!X1!!!,M!!!#K!!!!C!!!!(=!!!"6!!!!2!!!!#)!!!!2!!!!!/Y!!!$&gt;!!!!OQ!!!+I!!!#)!!!!&gt;Q!!!&amp;5!!!"%!!!!)A!!!"%!\O\O!.X&gt;X1#\O\M!KKKK!)C)C!"X&gt;X=!6666!%2%2!!C)C)!%2%2!!!!!!!!!!!!)!!A!!!!!!!!!!%!!!#!`````Y!!!!'!!!!"D/&amp;T/:+22*'3Y712EJ6%E9TG=R'!!!!"`````Y!!!!'!!!!"A!!!!9!!!!'!!!!"A!!!!9!!!!'!!!!"A!!!!9!!!!'!!!!"A!!!!9!!!!'!!!!"A!!!!9!!!!'!!!!"A!!!!9!!!!'!!!!"A!!!!@````]!!!#!``````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````]!!!!#!0```Q!!!!!!!!!!!#!!)!!!!!!</Property>
@@ -18,13 +18,13 @@
    <Property Name="OpenG.LVClass.Constructor.Path" Type="Path">Definitions/Construction_&amp;_Destruction/Constructor_OpenG_Active_Object_Template.vi</Property>
    <Property Name="OpenG.LVClass.DisplayName" Type="Str">OpenG_Active_Object_Template</Property>
    <Property Name="OpenG.LVClass.ExtendedNameFormat" Type="Str">{$OpenG.ClassItem.CoreName}_{$OpenG.LVClass.ShortName}</Property>
-   <Property Name="OpenG.LVClass.ID" Type="Str">OpenG_Reference_Object_Template.lvclass</Property>
+   <Property Name="OpenG.LVClass.ID" Type="Str">OpenG_Active_Object_Template.lvclass</Property>
    <Property Name="OpenG.LVClass.IsDerived" Type="Bool">true</Property>
    <Property Name="OpenG.LVClass.IsTemplate" Type="Bool">true</Property>
    <Property Name="OpenG.LVClass.License.Shortname" Type="Str"></Property>
    <Property Name="OpenG.LVClass.Specifications.Version" Type="Str">1.0.0.0</Property>
    <Property Name="OpenG.LVClass.Template.ID" Type="Str">OpenG_Reference_Object_Template.lvclass</Property>
-   <Property Name="OpenG.LVClass.Template.Path" Type="Path">/C/Program Files/National Instruments/LabVIEW 8.2/resource/OpenG/openg_object/class_templates/OpenG_Reference_Object_Template/OpenG_Reference_Object_Template.lvclass</Property>
+   <Property Name="OpenG.LVClass.Template.Path" Type="Path">/&lt;resource&gt;/OpenG/openg_object/class_templates/OpenG_Reference_Object_Template/OpenG_Reference_Object_Template.lvclass</Property>
    <Property Name="OpenG.LVClass.Template.Version" Type="Str">1.0.0.0</Property>
    <Item Name="OpenG_Active_Object_Template.ctl" Type="Class Private Data" URL="OpenG_Active_Object_Template.lvclass/OpenG_Active_Object_Template.ctl">
       <Property Name="NI.LibItem.Scope" Type="Int">2</Property>
@@ -48,7 +48,7 @@
             <Property Name="NI.LibItem.Scope" Type="Int">3</Property>
             <Property Name="OpenG.ClassItem.Constructor" Type="Bool">true</Property>
             <Property Name="OpenG.ClassItem.CoreName" Type="Str">Constructor</Property>
-            <Property Name="OpenG.ClassItem.ID" Type="Str">OpenG_Reference_Object_Template.lvclass:Constructor_OpenG_Reference_Object_Template.vi</Property>
+            <Property Name="OpenG.ClassItem.ID" Type="Str">OpenG_Active_Object_Template.lvclass:Constructor_OpenG_Active_Object_Template.vi</Property>
             <Property Name="OpenG.ClassItem.TemplateInternal" Type="Bool">false</Property>
             <Property Name="OpenG.ClassItem.Update" Type="Bool">false</Property>
             <Property Name="OpenG.ClassItem.UseExtendedName" Type="Bool">true</Property>
@@ -64,7 +64,7 @@
             <Property Name="NI.LibItem.Scope" Type="Int">2</Property>
             <Property Name="OpenG.ClassItem.CoreName" Type="Str">Destructor</Property>
             <Property Name="OpenG.ClassItem.Destructor" Type="Bool">true</Property>
-            <Property Name="OpenG.ClassItem.ID" Type="Str">OpenG_Reference_Object_Template.lvclass:Destructor_OpenG_Reference_Object_Template.vi</Property>
+            <Property Name="OpenG.ClassItem.ID" Type="Str">OpenG_Active_Object_Template.lvclass:Destructor_OpenG_Active_Object_Template.vi</Property>
             <Property Name="OpenG.ClassItem.TemplateInternal" Type="Bool">false</Property>
             <Property Name="OpenG.ClassItem.Update" Type="Bool">false</Property>
             <Property Name="OpenG.ClassItem.UseExtendedName" Type="Bool">true</Property>
@@ -79,7 +79,7 @@
             <Property Name="NI.ClassItem.State" Type="Int">1350705680</Property>
             <Property Name="NI.LibItem.Scope" Type="Int">3</Property>
             <Property Name="OpenG.ClassItem.CloneConstructor" Type="Bool">true</Property>
-            <Property Name="OpenG.ClassItem.ID" Type="Str">OpenG_Reference_Object_Template.lvclass:CloneConstructor.vi</Property>
+            <Property Name="OpenG.ClassItem.ID" Type="Str">OpenG_Active_Object_Template.lvclass:CloneConstructor.vi</Property>
             <Property Name="OpenG.ClassItem.TemplateInternal" Type="Bool">false</Property>
             <Property Name="OpenG.ClassItem.Update" Type="Bool">false</Property>
             <Property Name="OpenG.ClassItem.UseExtendedName" Type="Bool">false</Property>
@@ -93,6 +93,11 @@
             <Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
             <Property Name="NI.ClassItem.State" Type="Int">1342841360</Property>
             <Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+            <Property Name="OpenG.ClassItem.CoreName" Type="Str">UserMessageConstructor</Property>
+            <Property Name="OpenG.ClassItem.ID" Type="Str">OpenG_Active_Object_Template.lvclass:UserMessageConstructor_OpenG_Active_Object_Template.vi</Property>
+            <Property Name="OpenG.ClassItem.TemplateInternal" Type="Bool">false</Property>
+            <Property Name="OpenG.ClassItem.Update" Type="Bool">false</Property>
+            <Property Name="OpenG.ClassItem.UseExtendedName" Type="Bool">true</Property>
          </Item>
          <Item Name="UserMessageDestructor_OpenG_Active_Object_Template.vi" Type="VI" URL="Definitions/Construction_&amp;_Destruction/UserMessageDestructor_OpenG_Active_Object_Template.vi">
             <Property Name="NI.ClassItem.ConnectorPane" Type="Bin">###!!!!!!!)!"!!&amp;!!Q!1!!"`````Q!!!!%!!1!!!?=!!!!0!!R!)1:T&gt;'&amp;U&gt;8-!!!J!!Q2D&lt;W2F!!!11$$`````"H.P&gt;8*D:1!!&amp;E"1!!-!!!!"!!)*:8*S&lt;X)A&lt;X6U!!1!!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!"2!#A^/&gt;7VF=GFD)%VF=X.B:W5!(E"Q!"E!!1!'%EVZ)%ZV&lt;76S;7-A476T=W&amp;H:1!!'%!+%EVZ)%ZV&lt;76S;7-A476T=W&amp;H:1!!%%!Q`````Q:4&gt;(*J&lt;G=!!"Z!=!!3!!%!#2*.?3"4&gt;(*J&lt;G=A5G6T='^O=W5!!#2!5!!#!!A!#BB.?3".:8.T97&gt;F)(&gt;J&gt;'AA5G6T='^O=W5!!#2!=!!:!!%!#RB.?3".:8.T97&gt;F)(&gt;J&gt;'AA5G6T='^O=W5!!)-!]=*F[OE!!!!#*%^Q:7Z(8U&amp;D&gt;'FW:6^09GJF9X2@6'6N='RB&gt;'5O&lt;(:D&lt;'&amp;T=SV6=W6S476T=W&amp;H:8.@4X"F&lt;E&gt;@17.U;8:F8U^C;G6D&gt;&amp;^5:7VQ&lt;'&amp;U:3ZD&gt;'Q!45"1!!)!"Q!-'%.M&gt;8.U:8)A&lt;W9A&gt;8.F=C"N:8.T97&gt;F=Q!!0!$Q!!Q!!Q!%!!1!"!!%!!1!"!!%!!5!"!!%!!U#!!"Y$1A!!!!!!!!!!!!!!!!!!!I!!!!!!"!!!!!!!1!/!!!!!!</Property>
@@ -103,6 +108,11 @@
             <Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
             <Property Name="NI.ClassItem.State" Type="Int">1107821056</Property>
             <Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+            <Property Name="OpenG.ClassItem.CoreName" Type="Str">UserMessageDestructor</Property>
+            <Property Name="OpenG.ClassItem.ID" Type="Str">OpenG_Active_Object_Template.lvclass:UserMessageDestructor_OpenG_Active_Object_Template.vi</Property>
+            <Property Name="OpenG.ClassItem.TemplateInternal" Type="Bool">false</Property>
+            <Property Name="OpenG.ClassItem.Update" Type="Bool">false</Property>
+            <Property Name="OpenG.ClassItem.UseExtendedName" Type="Bool">true</Property>
          </Item>
       </Item>
       <Item Name="Data" Type="Folder">
@@ -117,7 +127,7 @@
             <Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
             <Property Name="NI.ClassItem.State" Type="Int">1074266624</Property>
             <Property Name="OpenG.ClassItem.CoreName" Type="Str">ObjectParameters</Property>
-            <Property Name="OpenG.ClassItem.ID" Type="Str">OpenG_Reference_Object_Template.lvclass:ObjectParameters_OpenG_Reference_Object_Template.ctl</Property>
+            <Property Name="OpenG.ClassItem.ID" Type="Str">OpenG_Active_Object_Template.lvclass:ObjectParameters_OpenG_Active_Object_Template.ctl</Property>
             <Property Name="OpenG.ClassItem.ParametersTypedef" Type="Bool">true</Property>
             <Property Name="OpenG.ClassItem.TemplateInternal" Type="Bool">false</Property>
             <Property Name="OpenG.ClassItem.Update" Type="Bool">false</Property>
@@ -133,7 +143,7 @@
             <Property Name="NI.ClassItem.State" Type="Int">1082130944</Property>
             <Property Name="NI.LibItem.Scope" Type="Int">2</Property>
             <Property Name="OpenG.ClassItem.CoreName" Type="Str">ObjectPrivateData</Property>
-            <Property Name="OpenG.ClassItem.ID" Type="Str">OpenG_Reference_Object_Template.lvclass:ObjectPrivateData_OpenG_Reference_Object_Template.ctl</Property>
+            <Property Name="OpenG.ClassItem.ID" Type="Str">OpenG_Active_Object_Template.lvclass:ObjectPrivateData_OpenG_Active_Object_Template.ctl</Property>
             <Property Name="OpenG.ClassItem.PrivateDataTypedef" Type="Bool">true</Property>
             <Property Name="OpenG.ClassItem.TemplateInternal" Type="Bool">false</Property>
             <Property Name="OpenG.ClassItem.Update" Type="Bool">false</Property>
@@ -148,6 +158,11 @@
             <Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
             <Property Name="NI.ClassItem.State" Type="Int">1082130944</Property>
             <Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+            <Property Name="OpenG.ClassItem.CoreName" Type="Str">ProcessState</Property>
+            <Property Name="OpenG.ClassItem.ID" Type="Str">OpenG_Active_Object_Template.lvclass:ProcessState_OpenG_Active_Object_Template.vi</Property>
+            <Property Name="OpenG.ClassItem.TemplateInternal" Type="Bool">false</Property>
+            <Property Name="OpenG.ClassItem.Update" Type="Bool">false</Property>
+            <Property Name="OpenG.ClassItem.UseExtendedName" Type="Bool">true</Property>
          </Item>
          <Item Name="UserMessages_OpenG_Active_Object_Template.ctl" Type="VI" URL="Definitions/Data/UserMessages_OpenG_Active_Object_Template.ctl">
             <Property Name="NI.ClassItem.ConnectorPane" Type="Bin">###!!!!!!!)!"!!&amp;!!Q!1!!"`````Q!!!!%!!1!!!!Q!!!!"!!1!!!!"!!!!!!!!</Property>
@@ -158,6 +173,11 @@
             <Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
             <Property Name="NI.ClassItem.State" Type="Int">1082130944</Property>
             <Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+            <Property Name="OpenG.ClassItem.CoreName" Type="Str">UserMessages</Property>
+            <Property Name="OpenG.ClassItem.ID" Type="Str">OpenG_Active_Object_Template.lvclass:UserMessages_OpenG_Active_Object_Template.vi</Property>
+            <Property Name="OpenG.ClassItem.TemplateInternal" Type="Bool">false</Property>
+            <Property Name="OpenG.ClassItem.Update" Type="Bool">false</Property>
+            <Property Name="OpenG.ClassItem.UseExtendedName" Type="Bool">true</Property>
          </Item>
       </Item>
       <Item Name="Transformations" Type="Folder">
@@ -173,13 +193,15 @@
             <Property Name="NI.ClassItem.State" Type="Int">1350705664</Property>
             <Property Name="NI.LibItem.Scope" Type="Int">2</Property>
             <Property Name="OpenG.ClassItem.CoreName" Type="Str">PrivateDataToXML</Property>
-            <Property Name="OpenG.ClassItem.ID" Type="Str">OpenG_Reference_Object_Template.lvclass:PrivateDataToXML_OpenG_Reference_Object_Template.vi</Property>
+            <Property Name="OpenG.ClassItem.ID" Type="Str">OpenG_Active_Object_Template.lvclass:PrivateDataToXML_OpenG_Active_Object_Template.vi</Property>
             <Property Name="OpenG.ClassItem.TemplateInternal" Type="Bool">false</Property>
             <Property Name="OpenG.ClassItem.Update" Type="Bool">false</Property>
             <Property Name="OpenG.ClassItem.UseExtendedName" Type="Bool">true</Property>
          </Item>
       </Item>
       <Item Name="Process" Type="Folder">
+         <Property Name="OpenG.ClassItem.TemplateInternal" Type="Bool">false</Property>
+         <Property Name="OpenG.ClassItem.Update" Type="Bool">false</Property>
          <Item Name="Process_OpenG_Active_Object_Template.vi" Type="VI" URL="Definitions/Process/Process_OpenG_Active_Object_Template.vi">
             <Property Name="NI.ClassItem.ConnectorPane" Type="Bin">###!!!!!!!)!"!!&amp;!!Q!1!!"`````Q!!!!%!!1!!!1Q!!!!)!!1!!!!-1#%'=X2B&gt;(6T!!!+1!-%9W^E:1!!%%!Q`````Q:T&lt;X6S9W5!!#"!5!!$!!%!!A!$%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!+E"Q!")!!1!%(EFO;82J97RJ?G&amp;U;7^O)&amp;.U982V=S"3:8.Q&lt;WZT:1!!6%"Q!"Y!!!!!!!!G*%^Q:7Z(8U&amp;D&gt;'FW:6^09GJF9X2@6'6N='RB&gt;'5O&lt;(:D&lt;'&amp;T=Q!!(U^Q:7Z(8U&amp;D&gt;'FW:6^09GJF9X2@6'6N='RB&gt;'5A;7Y!0!$Q!!Q!!!!!!!!!!!!!!!!!!!!!!!!!!!!&amp;!!9$!!"Y!!!!!!!!!!!!!!!!!!!!!!!!!!!3!"!!!!!!!1!(!!!!!!</Property>
             <Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
@@ -189,6 +211,11 @@
             <Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
             <Property Name="NI.ClassItem.State" Type="Int">1082130960</Property>
             <Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+            <Property Name="OpenG.ClassItem.CoreName" Type="Str">Process</Property>
+            <Property Name="OpenG.ClassItem.ID" Type="Str">OpenG_Active_Object_Template.lvclass:Process_OpenG_Active_Object_Template.vi</Property>
+            <Property Name="OpenG.ClassItem.TemplateInternal" Type="Bool">false</Property>
+            <Property Name="OpenG.ClassItem.Update" Type="Bool">false</Property>
+            <Property Name="OpenG.ClassItem.UseExtendedName" Type="Bool">true</Property>
          </Item>
       </Item>
       <Item Name="Version_OpenG_Active_Object_Template.vi" Type="VI" URL="Definitions/Version_OpenG_Active_Object_Template.vi">
@@ -202,7 +229,7 @@
          <Property Name="NI.LibItem.Scope" Type="Int">2</Property>
          <Property Name="OpenG.ClassItem.ClassVersionSpecifier" Type="Bool">true</Property>
          <Property Name="OpenG.ClassItem.CoreName" Type="Str">Version</Property>
-         <Property Name="OpenG.ClassItem.ID" Type="Str">OpenG_Reference_Object_Template.lvclass:Version_OpenG_Reference_Object_Template.vi</Property>
+         <Property Name="OpenG.ClassItem.ID" Type="Str">OpenG_Active_Object_Template.lvclass:Version_OpenG_Active_Object_Template.vi</Property>
          <Property Name="OpenG.ClassItem.TemplateInternal" Type="Bool">false</Property>
          <Property Name="OpenG.ClassItem.Update" Type="Bool">false</Property>
          <Property Name="OpenG.ClassItem.UseExtendedName" Type="Bool">true</Property>
@@ -284,6 +311,8 @@
       </Item>
    </Item>
    <Item Name="Process Control And Messaging" Type="Folder">
+      <Property Name="OpenG.ClassItem.TemplateInternal" Type="Bool">false</Property>
+      <Property Name="OpenG.ClassItem.Update" Type="Bool">false</Property>
       <Item Name="StartProcess_OpenG_Active_Object_Template.vi" Type="VI" URL="Process_Control_And_Messaging/StartProcess_OpenG_Active_Object_Template.vi">
          <Property Name="NI.ClassItem.ConnectorPane" Type="Bin">###!!!!!!!)!"!!&amp;!!Q!1!!"`````Q!!!!%!!1!!!:%!!!!-!!R!)1:T&gt;'&amp;U&gt;8-!!!J!!Q2D&lt;W2F!!!11$$`````"H.P&gt;8*D:1!!&amp;E"1!!-!!!!"!!)*:8*S&lt;X)A&lt;X6U!""!)1JU;7VF:#"P&gt;81`!!!%!!!!6E"Q!"Y!!!!!!!!G*%^Q:7Z(8U&amp;D&gt;'FW:6^09GJF9X2@6'6N='RB&gt;'5O&lt;(:D&lt;'&amp;T=Q!!)%^Q:7Z(8U&amp;D&gt;'FW:6^09GJF9X2@6'6N='RB&gt;'5A&lt;X6U!!!/1!-*&gt;'FN:3"M:7:U!"B!!R*U;7VF&lt;X6U)'FO)'VT)#AN-3E!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!6%"Q!"Y!!!!!!!!G*%^Q:7Z(8U&amp;D&gt;'FW:6^09GJF9X2@6'6N='RB&gt;'5O&lt;(:D&lt;'&amp;T=Q!!(U^Q:7Z(8U&amp;D&gt;'FW:6^09GJF9X2@6'6N='RB&gt;'5A;7Y!31$Q!!Q!!Q!%!!5!"A!(!!5!#!!&amp;!!E!"1!&amp;!!I$!!"Y$1A*!!!!$1M."A!!#A!!!!I!!!!!!"!!!!U!!!!-!!!!!!!!!!!!!!%!#Q!!!!!</Property>
          <Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
@@ -293,6 +322,11 @@
          <Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
          <Property Name="NI.ClassItem.State" Type="Int">1074266640</Property>
          <Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+         <Property Name="OpenG.ClassItem.CoreName" Type="Str">StartProcess</Property>
+         <Property Name="OpenG.ClassItem.ID" Type="Str">OpenG_Active_Object_Template.lvclass:StartProcess_OpenG_Active_Object_Template.vi</Property>
+         <Property Name="OpenG.ClassItem.TemplateInternal" Type="Bool">true</Property>
+         <Property Name="OpenG.ClassItem.Update" Type="Bool">false</Property>
+         <Property Name="OpenG.ClassItem.UseExtendedName" Type="Bool">true</Property>
       </Item>
       <Item Name="StopProcess_OpenG_Active_Object_Template.vi" Type="VI" URL="Process_Control_And_Messaging/StopProcess_OpenG_Active_Object_Template.vi">
          <Property Name="NI.ClassItem.ConnectorPane" Type="Bin">###!!!!!!!)!"!!&amp;!!Q!1!!"`````Q!!!!%!!1!!!:%!!!!-!!R!)1:T&gt;'&amp;U&gt;8-!!!J!!Q2D&lt;W2F!!!11$$`````"H.P&gt;8*D:1!!&amp;E"1!!-!!!!"!!)*:8*S&lt;X)A&lt;X6U!""!)1JU;7VF:#"P&gt;81`!!!%!!!!6E"Q!"Y!!!!!!!!G*%^Q:7Z(8U&amp;D&gt;'FW:6^09GJF9X2@6'6N='RB&gt;'5O&lt;(:D&lt;'&amp;T=Q!!)%^Q:7Z(8U&amp;D&gt;'FW:6^09GJF9X2@6'6N='RB&gt;'5A&lt;X6U!!!/1!-*&gt;'FN:3"M:7:U!"B!!R*U;7VF&lt;X6U)'FO)'VT)#AN-3E!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!6%"Q!"Y!!!!!!!!G*%^Q:7Z(8U&amp;D&gt;'FW:6^09GJF9X2@6'6N='RB&gt;'5O&lt;(:D&lt;'&amp;T=Q!!(U^Q:7Z(8U&amp;D&gt;'FW:6^09GJF9X2@6'6N='RB&gt;'5A;7Y!31$Q!!Q!!Q!%!!5!"A!(!!5!#!!&amp;!!E!"1!&amp;!!I$!!"Y$1A*!!!!$1M."A!!#A!!!!I!!!!!!"!!!!U!!!!-!!!!!!!!!!!!!!%!#Q!!!!!</Property>
@@ -303,6 +337,11 @@
          <Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
          <Property Name="NI.ClassItem.State" Type="Int">1082130960</Property>
          <Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+         <Property Name="OpenG.ClassItem.CoreName" Type="Str">StopProcess</Property>
+         <Property Name="OpenG.ClassItem.ID" Type="Str">OpenG_Active_Object_Template.lvclass:StopProcess_OpenG_Active_Object_Template.vi</Property>
+         <Property Name="OpenG.ClassItem.TemplateInternal" Type="Bool">true</Property>
+         <Property Name="OpenG.ClassItem.Update" Type="Bool">false</Property>
+         <Property Name="OpenG.ClassItem.UseExtendedName" Type="Bool">true</Property>
       </Item>
       <Item Name="GetUserMessageReferences_OpenG_Active_Object_Template.vi" Type="VI" URL="Process_Control_And_Messaging/GetUserMessageReferences_OpenG_Active_Object_Template.vi">
          <Property Name="NI.ClassItem.ConnectorPane" Type="Bin">###!!!!!!!)!"!!&amp;!!Q!1!!"`````Q!!!!%!!1!!!JY!!!!2!!R!)1:T&gt;'&amp;U&gt;8-!!!J!!Q2D&lt;W2F!!!11$$`````"H.P&gt;8*D:1!!&amp;E"1!!-!!!!"!!)*:8*S&lt;X)A&lt;X6U!!1!!!!51!I04H6N:8*J9S".:8.T97&gt;F!"Z!=!!:!!%!"2*.?3"/&gt;7VF=GFD)%VF=X.B:W5!!"B!#B*.?3"/&gt;7VF=GFD)%VF=X.B:W5!!""!-0````]'5X2S;7ZH!!!?1(!!%A!"!!A348EA5X2S;7ZH)&amp;*F=X"P&lt;H.F!!!E1&amp;!!!A!(!!E948EA476T=W&amp;H:3"X;82I)&amp;*F=X"P&lt;H.F!!!E1(!!'1!"!!I948EA476T=W&amp;H:3"X;82I)&amp;*F=X"P&lt;H.F!!#$!0(#:?LJ!!!!!C20='6O2V^"9X2J&gt;G6@4W*K:7.U8V2F&lt;8"M982F,GRW9WRB=X-N68.F=EVF=X.B:W6T8U^Q:7Z(8U&amp;D&gt;'FW:6^09GJF9X2@6'6N='RB&gt;'5O9X2M!%V!5!!#!!9!#RB$&lt;(6T&gt;'6S)'^G)(6T:8)A&lt;76T=W&amp;H:8-!!&amp;:!=!!?!!!!!!!!*C20='6O2V^"9X2J&gt;G6@4W*K:7.U8V2F&lt;8"M982F,GRW9WRB=X-!!#"0='6O2V^"9X2J&gt;G6@4W*K:7.U8V2F&lt;8"M982F)'^V&gt;!!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1"51(!!(A!!!!!!!#9E4X"F&lt;E&gt;@17.U;8:F8U^C;G6D&gt;&amp;^5:7VQ&lt;'&amp;U:3ZM&gt;G.M98.T!!!@4X"F&lt;E&gt;@17.U;8:F8U^C;G6D&gt;&amp;^5:7VQ&lt;'&amp;U:3"J&lt;A"*!0!!$!!$!!1!$!!.!!1!"!!%!!1!$A!%!!1!$Q-!!(A.#!!!#1!.#Q!!!!!!!!!!#A!!!!!!%!!!$1!!!!Q!!!!!!!!!!!!!!1!1!!!!!!</Property>
@@ -313,6 +352,11 @@
          <Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
          <Property Name="NI.ClassItem.State" Type="Int">1074266640</Property>
          <Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+         <Property Name="OpenG.ClassItem.CoreName" Type="Str">GetUserMessageReferences</Property>
+         <Property Name="OpenG.ClassItem.ID" Type="Str">OpenG_Active_Object_Template.lvclass:GetUserMessageReferences_OpenG_Active_Object_Template.vi</Property>
+         <Property Name="OpenG.ClassItem.TemplateInternal" Type="Bool">true</Property>
+         <Property Name="OpenG.ClassItem.Update" Type="Bool">false</Property>
+         <Property Name="OpenG.ClassItem.UseExtendedName" Type="Bool">true</Property>
       </Item>
    </Item>
    <Item Name="Templates" Type="Folder">
@@ -327,6 +371,13 @@
          <Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
          <Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
          <Property Name="NI.ClassItem.State" Type="Int">1343103504</Property>
+         <Property Name="OpenG.ClassItem.CoreName" Type="Str">SendMessage</Property>
+         <Property Name="OpenG.ClassItem.ID" Type="Str">OpenG_Active_Object_Template.lvclass:SendMessage_OpenG_Active_Object_Template.vi</Property>
+         <Property Name="OpenG.ClassItem.IsTemplate" Type="Bool">true</Property>
+         <Property Name="OpenG.ClassItem.TemplateInternal" Type="Bool">false</Property>
+         <Property Name="OpenG.ClassItem.TemplatePrivate" Type="Bool">true</Property>
+         <Property Name="OpenG.ClassItem.Update" Type="Bool">false</Property>
+         <Property Name="OpenG.ClassItem.UseExtendedName" Type="Bool">true</Property>
       </Item>
       <Item Name="SendMessageWithResponse_OpenG_Active_Object_Template.vi" Type="VI" URL="Templates/SendMessageWithResponse_OpenG_Active_Object_Template.vi">
          <Property Name="NI.ClassItem.ConnectorPane" Type="Bin">###!!!!!!!)!"!!&amp;!!Q!1!!"`````Q!!!!%!!1!!!89!!!!-!!R!)1:T&gt;'&amp;U&gt;8-!!!J!!Q2D&lt;W2F!!!11$$`````"H.P&gt;8*D:1!!&amp;E"1!!-!!!!"!!)*:8*S&lt;X)A&lt;X6U!!1!!!!)!$$`````!"2!=!!3!!%!"1BS:8.Q&lt;WZT:1!!6E"Q!"Y!!!!!!!!G*%^Q:7Z(8U&amp;D&gt;'FW:6^09GJF9X2@6'6N='RB&gt;'5O&lt;(:D&lt;'&amp;T=Q!!)%^Q:7Z(8U&amp;D&gt;'FW:6^09GJF9X2@6'6N='RB&gt;'5A&lt;X6U!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!!R!#A&gt;N:8.T97&gt;F!&amp;2!=!!?!!!!!!!!*C20='6O2V^"9X2J&gt;G6@4W*K:7.U8V2F&lt;8"M982F,GRW9WRB=X-!!"^0='6O2V^"9X2J&gt;G6@4W*K:7.U8V2F&lt;8"M982F)'FO!$Q!]!!-!!-!"!!'!!=!"!!%!!1!"!!)!!1!#1!+!Q!!?!U)!!!*!)U,!!!!!!!!!!!+!!!!%!#1!!!!!!%!#Q!!!!!</Property>
@@ -336,6 +387,13 @@
          <Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
          <Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
          <Property Name="NI.ClassItem.State" Type="Int">1342841360</Property>
+         <Property Name="OpenG.ClassItem.CoreName" Type="Str">SendMessageWithResponse</Property>
+         <Property Name="OpenG.ClassItem.ID" Type="Str">OpenG_Active_Object_Template.lvclass:SendMessageWithResponse_OpenG_Active_Object_Template.vi</Property>
+         <Property Name="OpenG.ClassItem.IsTemplate" Type="Bool">true</Property>
+         <Property Name="OpenG.ClassItem.TemplateInternal" Type="Bool">false</Property>
+         <Property Name="OpenG.ClassItem.TemplatePrivate" Type="Bool">true</Property>
+         <Property Name="OpenG.ClassItem.Update" Type="Bool">false</Property>
+         <Property Name="OpenG.ClassItem.UseExtendedName" Type="Bool">true</Property>
       </Item>
       <Item Name="SendMessageWaitForResponse_OpenG_Active_Object_Template.vi" Type="VI" URL="Templates/SendMessageWaitForResponse_OpenG_Active_Object_Template.vi">
          <Property Name="NI.ClassItem.ConnectorPane" Type="Bin">###!!!!!!!)!"!!&amp;!!Q!1!!"`````Q!!!!%!!1!!!8!!!!!,!!R!)1:T&gt;'&amp;U&gt;8-!!!J!!Q2D&lt;W2F!!!11$$`````"H.P&gt;8*D:1!!&amp;E"1!!-!!!!"!!)*:8*S&lt;X)A&lt;X6U!!1!!!!71$$`````$&amp;*F&gt;(6S&lt;C"W97RV:1!!6E"Q!"Y!!!!!!!!G*%^Q:7Z(8U&amp;D&gt;'FW:6^09GJF9X2@6'6N='RB&gt;'5O&lt;(:D&lt;'&amp;T=Q!!)%^Q:7Z(8U&amp;D&gt;'FW:6^09GJF9X2@6'6N='RB&gt;'5A&lt;X6U!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!!R!#A&gt;N:8.T97&gt;F!&amp;2!=!!?!!!!!!!!*C20='6O2V^"9X2J&gt;G6@4W*K:7.U8V2F&lt;8"M982F,GRW9WRB=X-!!"^0='6O2V^"9X2J&gt;G6@4W*K:7.U8V2F&lt;8"M982F)'FO!$Q!]!!-!!-!"!!&amp;!!9!"!!%!!1!"!!(!!1!#!!*!Q!!?!U)!!!*!)U,!!!!!!!!!!!+!!!!%!#1!!!!!!%!#A!!!!!</Property>
@@ -345,6 +403,13 @@
          <Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
          <Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
          <Property Name="NI.ClassItem.State" Type="Int">1342841360</Property>
+         <Property Name="OpenG.ClassItem.CoreName" Type="Str">SendMessageWaitForResponse</Property>
+         <Property Name="OpenG.ClassItem.ID" Type="Str">OpenG_Active_Object_Template.lvclass:SendMessageWaitForResponse_OpenG_Active_Object_Template.vi</Property>
+         <Property Name="OpenG.ClassItem.IsTemplate" Type="Bool">true</Property>
+         <Property Name="OpenG.ClassItem.TemplateInternal" Type="Bool">false</Property>
+         <Property Name="OpenG.ClassItem.TemplatePrivate" Type="Bool">true</Property>
+         <Property Name="OpenG.ClassItem.Update" Type="Bool">false</Property>
+         <Property Name="OpenG.ClassItem.UseExtendedName" Type="Bool">true</Property>
       </Item>
       <Item Name="FunctionalClassVariable_OpenG_Active_Object_Template.vi" Type="VI" URL="Templates/FunctionalClassVariable_OpenG_Active_Object_Template.vi">
          <Property Name="NI.ClassItem.ConnectorPane" Type="Bin">###!!!!!!!)!"!!&amp;!!Q!1!!"`````Q!!!!%!!1!!!9-!!!!,!!R!)1:T&gt;'&amp;U&gt;8-!!!J!!Q2D&lt;W2F!!!11$$`````"H.P&gt;8*D:1!!&amp;E"1!!-!!!!"!!)*:8*S&lt;X)A&lt;X6U!!1!!!!91!-36G&amp;S;7&amp;C&lt;'5A&gt;G&amp;M&gt;75A&lt;X6U!!"31(!!(A!!!!!!!#9E4X"F&lt;E&gt;@17.U;8:F8U^C;G6D&gt;&amp;^5:7VQ&lt;'&amp;U:3ZM&gt;G.M98.T!!!&gt;5G6G:8*F&lt;G.F)%^C;G6D&gt;#"5:7VQ&lt;'&amp;U:3"P&gt;81!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!71"9!!1&gt;1=G6W;76X"E&amp;D&gt;'FP&lt;A!!5E"Q!"Y!!!!!!!!G*%^Q:7Z(8U&amp;D&gt;'FW:6^09GJF9X2@6'6N='RB&gt;'5O&lt;(:D&lt;'&amp;T=Q!!(&amp;*F:G6S:7ZD:3"09GJF9X1A6'6N='RB&gt;'5A;7Y!!%E!]!!-!!-!"!!&amp;!!9!"!!%!!1!"!!(!!A!"!!*!Q!!?!U)!!!*!!U,!!!!!!!!!!!)!!I!!!!)!!!.!!!!$!!!!!!!!!!!!!!"!!I!!!!!</Property>
@@ -507,9 +572,9 @@
             <Property Name="NI.ClassItem.MethodScope" Type="UInt">3</Property>
             <Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
             <Property Name="NI.ClassItem.State" Type="Int">1350705680</Property>
-            <Property Name="OpenG.ClassItem.ID" Type="Str">OpenG_Reference_Object_Template.lvclass:CleanUp.vi</Property>
+            <Property Name="OpenG.ClassItem.ID" Type="Str">OpenG_Active_Object_Template.lvclass:CleanUp.vi</Property>
             <Property Name="OpenG.ClassItem.TemplateInternal" Type="Bool">true</Property>
-            <Property Name="OpenG.ClassItem.Update" Type="Bool">true</Property>
+            <Property Name="OpenG.ClassItem.Update" Type="Bool">false</Property>
             <Property Name="OpenG.ClassItem.UseExtendedName" Type="Bool">false</Property>
          </Item>
          <Item Name="Reset.vi" Type="VI" URL="Internal/Reset.vi">
@@ -520,9 +585,9 @@
             <Property Name="NI.ClassItem.MethodScope" Type="UInt">3</Property>
             <Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
             <Property Name="NI.ClassItem.State" Type="Int">1350705680</Property>
-            <Property Name="OpenG.ClassItem.ID" Type="Str">OpenG_Reference_Object_Template.lvclass:Reset.vi</Property>
+            <Property Name="OpenG.ClassItem.ID" Type="Str">OpenG_Active_Object_Template.lvclass:Reset.vi</Property>
             <Property Name="OpenG.ClassItem.TemplateInternal" Type="Bool">true</Property>
-            <Property Name="OpenG.ClassItem.Update" Type="Bool">true</Property>
+            <Property Name="OpenG.ClassItem.Update" Type="Bool">false</Property>
             <Property Name="OpenG.ClassItem.UseExtendedName" Type="Bool">false</Property>
          </Item>
          <Item Name="Initialize.vi" Type="VI" URL="Internal/Initialize.vi">
@@ -533,9 +598,9 @@
             <Property Name="NI.ClassItem.MethodScope" Type="UInt">3</Property>
             <Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
             <Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
-            <Property Name="OpenG.ClassItem.ID" Type="Str">OpenG_Reference_Object_Template.lvclass:Initialize.vi</Property>
+            <Property Name="OpenG.ClassItem.ID" Type="Str">OpenG_Active_Object_Template.lvclass:Initialize.vi</Property>
             <Property Name="OpenG.ClassItem.TemplateInternal" Type="Bool">true</Property>
-            <Property Name="OpenG.ClassItem.Update" Type="Bool">true</Property>
+            <Property Name="OpenG.ClassItem.Update" Type="Bool">false</Property>
             <Property Name="OpenG.ClassItem.UseExtendedName" Type="Bool">false</Property>
          </Item>
          <Item Name="Finalize.vi" Type="VI" URL="Internal/Finalize.vi">
@@ -546,9 +611,9 @@
             <Property Name="NI.ClassItem.MethodScope" Type="UInt">3</Property>
             <Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
             <Property Name="NI.ClassItem.State" Type="Int">1350705680</Property>
-            <Property Name="OpenG.ClassItem.ID" Type="Str">OpenG_Reference_Object_Template.lvclass:Finalize.vi</Property>
+            <Property Name="OpenG.ClassItem.ID" Type="Str">OpenG_Active_Object_Template.lvclass:Finalize.vi</Property>
             <Property Name="OpenG.ClassItem.TemplateInternal" Type="Bool">true</Property>
-            <Property Name="OpenG.ClassItem.Update" Type="Bool">true</Property>
+            <Property Name="OpenG.ClassItem.Update" Type="Bool">false</Property>
             <Property Name="OpenG.ClassItem.UseExtendedName" Type="Bool">false</Property>
          </Item>
          <Item Name="FlattenToXMLInternal.vi" Type="VI" URL="Internal/FlattenToXMLInternal.vi">
@@ -577,6 +642,11 @@
             <Property Name="NI.ClassItem.MethodScope" Type="UInt">2</Property>
             <Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
             <Property Name="NI.ClassItem.State" Type="Int">268972560</Property>
+            <Property Name="OpenG.ClassItem.CoreName" Type="Str"></Property>
+            <Property Name="OpenG.ClassItem.ID" Type="Str">OpenG_Active_Object_Template.lvclass:ProcessContainer_OpenG_Active_Object_Template.vi</Property>
+            <Property Name="OpenG.ClassItem.TemplateInternal" Type="Bool">true</Property>
+            <Property Name="OpenG.ClassItem.Update" Type="Bool">false</Property>
+            <Property Name="OpenG.ClassItem.UseExtendedName" Type="Bool">true</Property>
          </Item>
          <Item Name="InitializeMessages_OpenG_Active_Object_Template.vi" Type="VI" URL="Internal/InitializeMessages_OpenG_Active_Object_Template.vi">
             <Property Name="NI.ClassItem.ConnectorPane" Type="Bin">###!!!!!!!)!"!!&amp;!!Q!1!!"`````Q!!!!%!!1!!!&lt;-!!!!.!!R!)1:T&gt;'&amp;U&gt;8-!!!J!!Q2D&lt;W2F!!!11$$`````"H.P&gt;8*D:1!!&amp;E"1!!-!!!!"!!)*:8*S&lt;X)A&lt;X6U!"*!)1RD=G6B&gt;'6E)'ZF&gt;T]!!""!)1JU;7VF:#"P&gt;81`!!"71(!!(A!!!!!!!#9E4X"F&lt;E&gt;@17.U;8:F8U^C;G6D&gt;&amp;^5:7VQ&lt;'&amp;U:3ZM&gt;G.M98.T!!!A4X"F&lt;E&gt;@17.U;8:F8U^C;G6D&gt;&amp;^5:7VQ&lt;'&amp;U:3"P&gt;81!!!1!!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!"Z!)2BD=G6B&gt;'5A;79A&lt;G^U)':P&gt;7ZE0S!I6#E!!"B!-0````]/&lt;G&amp;N:3!I&gt;7ZO97VF:#E!!&amp;2!=!!?!!!!!!!!*C20='6O2V^"9X2J&gt;G6@4W*K:7.U8V2F&lt;8"M982F,GRW9WRB=X-!!"^0='6O2V^"9X2J&gt;G6@4W*K:7.U8V2F&lt;8"M982F)'FO!%E!]!!-!!-!"!!&amp;!!9!"Q!(!!=!"Q!)!!E!#A!,!Q!!?!U)$1E*!!U,!!!!!!!!!!!+!!I!#A!3!!!.!!!!$!!!!!!!!!!!!!!"!!Q!!!!!</Property>
@@ -586,6 +656,11 @@
             <Property Name="NI.ClassItem.MethodScope" Type="UInt">2</Property>
             <Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
             <Property Name="NI.ClassItem.State" Type="Int">1074397712</Property>
+            <Property Name="OpenG.ClassItem.CoreName" Type="Str">InitializeMessages</Property>
+            <Property Name="OpenG.ClassItem.ID" Type="Str">OpenG_Active_Object_Template.lvclass:InitializeMessages_OpenG_Active_Object_Template.vi</Property>
+            <Property Name="OpenG.ClassItem.TemplateInternal" Type="Bool">true</Property>
+            <Property Name="OpenG.ClassItem.Update" Type="Bool">false</Property>
+            <Property Name="OpenG.ClassItem.UseExtendedName" Type="Bool">true</Property>
          </Item>
          <Item Name="InitializeProcessReference_OpenG_Active_Object_Template.vi" Type="VI" URL="Internal/InitializeProcessReference_OpenG_Active_Object_Template.vi">
             <Property Name="NI.ClassItem.ConnectorPane" Type="Bin">###!!!!!!!)!"!!&amp;!!Q!1!!"`````Q!!!!%!!1!!!&lt;-!!!!.!!R!)1:T&gt;'&amp;U&gt;8-!!!J!!Q2D&lt;W2F!!!11$$`````"H.P&gt;8*D:1!!&amp;E"1!!-!!!!"!!)*:8*S&lt;X)A&lt;X6U!"*!)1RD=G6B&gt;'6E)'ZF&gt;T]!!""!)1JU;7VF:#"P&gt;81`!!"71(!!(A!!!!!!!#9E4X"F&lt;E&gt;@17.U;8:F8U^C;G6D&gt;&amp;^5:7VQ&lt;'&amp;U:3ZM&gt;G.M98.T!!!A4X"F&lt;E&gt;@17.U;8:F8U^C;G6D&gt;&amp;^5:7VQ&lt;'&amp;U:3"P&gt;81!!!1!!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!"Z!)2BD=G6B&gt;'5A;79A&lt;G^U)':P&gt;7ZE0S!I6#E!!"B!-0````]/&lt;G&amp;N:3!I&gt;7ZO97VF:#E!!&amp;2!=!!?!!!!!!!!*C20='6O2V^"9X2J&gt;G6@4W*K:7.U8V2F&lt;8"M982F,GRW9WRB=X-!!"^0='6O2V^"9X2J&gt;G6@4W*K:7.U8V2F&lt;8"M982F)'FO!%E!]!!-!!-!"!!&amp;!!9!"Q!(!!=!"Q!)!!E!#A!,!Q!!?!U)$1E*!!U,!!!!!!!!!!!+!!I!#A!3!!!.!!!!$!!!!!!!!!!!!!!"!!Q!!!!!</Property>
@@ -595,6 +670,11 @@
             <Property Name="NI.ClassItem.MethodScope" Type="UInt">2</Property>
             <Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
             <Property Name="NI.ClassItem.State" Type="Int">1342841360</Property>
+            <Property Name="OpenG.ClassItem.CoreName" Type="Str">InitializeProcessReference</Property>
+            <Property Name="OpenG.ClassItem.ID" Type="Str">OpenG_Active_Object_Template.lvclass:InitializeProcessReference_OpenG_Active_Object_Template.vi</Property>
+            <Property Name="OpenG.ClassItem.TemplateInternal" Type="Bool">true</Property>
+            <Property Name="OpenG.ClassItem.Update" Type="Bool">false</Property>
+            <Property Name="OpenG.ClassItem.UseExtendedName" Type="Bool">true</Property>
          </Item>
          <Item Name="ObjectFactory_OpenG_Active_Object_Template.vi" Type="VI" URL="Internal/ObjectFactory_OpenG_Active_Object_Template.vi">
             <Property Name="NI.ClassItem.ConnectorPane" Type="Bin">###!!!!!!!)!"!!&amp;!!Q!1!!"`````Q!!!!%!!1!!!II!!!!4!$Z!=!!?!!!!!!!!*C20='6O2V^"9X2J&gt;G6@4W*K:7.U8V2F&lt;8"M982F,GRW9WRB=X-!!!F09GJF9X1A;7Y!'%!Q`````QZO97VF)#BV&lt;GZB&lt;76E+1!!"!!!!%"!=!!?!!!!!!!!*C20='6O2V^"9X2J&gt;G6@4W*K:7.U8V2F&lt;8"M982F,GRW9WRB=X-!!!J09GJF9X1A&lt;X6U!!!11$$`````"F.U=GFO:Q!!@1$RQA9=?Q!!!!)E4X"F&lt;E&gt;@17.U;8:F8U^C;G6D&gt;&amp;^5:7VQ&lt;'&amp;U:3ZM&gt;G.M98.T-5^C;G6D&gt;&amp;"B=G&amp;N:82F=H.@4X"F&lt;E&gt;@17.U;8:F8U^C;G6D&gt;&amp;^5:7VQ&lt;'&amp;U:3ZD&gt;'Q!1U"1!!%!"""09GJF9X1A18*H&gt;7VF&lt;H2T!!!11#%+:'6T&gt;(*P?76E0Q!!%%!B#H2J&lt;76E)'^V&gt;$]!!#B!)3.D=G6B&gt;'5A;79A&lt;G^U)':P&gt;7ZE)#]A:G^S9W5A:'6T&gt;(*P?1!31#%-9X*F982F:#"O:8=`!!!-1#%'=X2B&gt;(6T!!!+1!-%9W^E:1!!%%!Q`````Q:T&lt;X6S9W5!!#"!5!!$!!I!#Q!-%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!)E!6!!-'1X*F982F"5.M&lt;X.F"5.M&lt;WZF!!:"9X2J&lt;WY!!"B!!R*U;7VF&lt;X6U)'FO)'VT)#AN-3E!!!Z!!QFU;7VF)'RF:H1!&amp;E"1!!-!#A!,!!Q*:8*S&lt;X)A&lt;X6U!&amp;U!]!!1!!!!!1!#!!)!!Q!&amp;!!9!!A!(!!A!#1!.!!Y!$Q!1!"%$!!%)#A!)!!!!!!!.!!A!#1!!!!E!#A!*!")!%A!+!!U.$1M!%1!!!!!"!!!!!!!!!!!!!!!!!!%!%A!!!!!</Property>
@@ -618,6 +698,11 @@
             <Property Name="NI.ClassItem.MethodScope" Type="UInt">2</Property>
             <Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
             <Property Name="NI.ClassItem.State" Type="Int">1082130960</Property>
+            <Property Name="OpenG.ClassItem.CoreName" Type="Str">CloseProcessReference</Property>
+            <Property Name="OpenG.ClassItem.ID" Type="Str">OpenG_Active_Object_Template.lvclass:CloseProcessReference_OpenG_Active_Object_Template.vi</Property>
+            <Property Name="OpenG.ClassItem.TemplateInternal" Type="Bool">true</Property>
+            <Property Name="OpenG.ClassItem.Update" Type="Bool">false</Property>
+            <Property Name="OpenG.ClassItem.UseExtendedName" Type="Bool">true</Property>
          </Item>
          <Item Name="InternalMessageConstructor_OpenG_Active_Object_Template.vi" Type="VI" URL="Internal/InternalMessageConstructor_OpenG_Active_Object_Template.vi">
             <Property Name="NI.ClassItem.ConnectorPane" Type="Bin">###!!!!!!!)!"!!&amp;!!Q!1!!"`````Q!!!!%!!1!!!75!!!!+!!R!)1:T&gt;'&amp;U&gt;8-!!!J!!Q2D&lt;W2F!!!11$$`````"H.P&gt;8*D:1!!&amp;E"1!!-!!!!"!!)*:8*S&lt;X)A&lt;X6U!!1!!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!#"!=!!3!!%!"22&amp;?'FU)&amp;.U982V=S"3:8.Q&lt;WZT:1!!'%"Q!"E!!1!'$&amp;.U&lt;X!A&lt;76T=W&amp;H:1!!C1$RQG8L9!!!!!)E4X"F&lt;E&gt;@17.U;8:F8U^C;G6D&gt;&amp;^5:7VQ&lt;'&amp;U:3ZM&gt;G.M98.T-5FO&gt;'6S&lt;G&amp;M476T=W&amp;H:8.@4X"F&lt;E&gt;@17.U;8:F8U^C;G6D&gt;&amp;^5:7VQ&lt;'&amp;U:3ZD&gt;'Q!4U"1!!%!"RR$&lt;(6T&gt;'6S)'^G)'FO&gt;'6S&lt;G&amp;M)'VF=X.B:W6T!!!]!0!!$!!$!!1!"!!)!!1!"!!%!!1!"1!%!!1!"!-!!(A.#!!!!!!*!!!!!!!!!!!!%A!!!!!!!!!!!!!"!!E!!!!!</Property>
@@ -627,6 +712,11 @@
             <Property Name="NI.ClassItem.MethodScope" Type="UInt">2</Property>
             <Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
             <Property Name="NI.ClassItem.State" Type="Int">1343103504</Property>
+            <Property Name="OpenG.ClassItem.CoreName" Type="Str">InternalMessageConstructor</Property>
+            <Property Name="OpenG.ClassItem.ID" Type="Str">OpenG_Active_Object_Template.lvclass:InternalMessageConstructor_OpenG_Active_Object_Template.vi</Property>
+            <Property Name="OpenG.ClassItem.TemplateInternal" Type="Bool">true</Property>
+            <Property Name="OpenG.ClassItem.Update" Type="Bool">false</Property>
+            <Property Name="OpenG.ClassItem.UseExtendedName" Type="Bool">true</Property>
          </Item>
          <Item Name="InternalMessageDestructor_OpenG_Active_Object_Template.vi" Type="VI" URL="Internal/InternalMessageDestructor_OpenG_Active_Object_Template.vi">
             <Property Name="NI.ClassItem.ConnectorPane" Type="Bin">###!!!!!!!)!"!!&amp;!!Q!1!!"`````Q!!!!%!!1!!!75!!!!+!!R!)1:T&gt;'&amp;U&gt;8-!!!J!!Q2D&lt;W2F!!!11$$`````"H.P&gt;8*D:1!!&amp;E"1!!-!!!!"!!)*:8*S&lt;X)A&lt;X6U!!1!!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!#"!=!!3!!%!"22&amp;?'FU)&amp;.U982V=S"3:8.Q&lt;WZT:1!!'%"Q!"E!!1!'$&amp;.U&lt;X!A&lt;76T=W&amp;H:1!!C1$RQG8L9!!!!!)E4X"F&lt;E&gt;@17.U;8:F8U^C;G6D&gt;&amp;^5:7VQ&lt;'&amp;U:3ZM&gt;G.M98.T-5FO&gt;'6S&lt;G&amp;M476T=W&amp;H:8.@4X"F&lt;E&gt;@17.U;8:F8U^C;G6D&gt;&amp;^5:7VQ&lt;'&amp;U:3ZD&gt;'Q!4U"1!!%!"RR$&lt;(6T&gt;'6S)'^G)'FO&gt;'6S&lt;G&amp;M)'VF=X.B:W6T!!!]!0!!$!!$!!1!"!!%!!1!"!!%!!1!"1!%!!1!#!)!!(A.#!!!!!!!!!!!!!!!!!!!#A!!!!!!%!!!!!!"!!E!!!!!</Property>
@@ -636,6 +726,11 @@
             <Property Name="NI.ClassItem.MethodScope" Type="UInt">2</Property>
             <Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
             <Property Name="NI.ClassItem.State" Type="Int">1116209664</Property>
+            <Property Name="OpenG.ClassItem.CoreName" Type="Str">InternalMessageDestructor</Property>
+            <Property Name="OpenG.ClassItem.ID" Type="Str">OpenG_Active_Object_Template.lvclass:InternalMessageDestructor_OpenG_Active_Object_Template.vi</Property>
+            <Property Name="OpenG.ClassItem.TemplateInternal" Type="Bool">true</Property>
+            <Property Name="OpenG.ClassItem.Update" Type="Bool">false</Property>
+            <Property Name="OpenG.ClassItem.UseExtendedName" Type="Bool">true</Property>
          </Item>
          <Item Name="GetMessageReferences_OpenG_Active_Object_Template.vi" Type="VI" URL="Internal/GetMessageReferences_OpenG_Active_Object_Template.vi">
             <Property Name="NI.ClassItem.ConnectorPane" Type="Bin">###!!!!!!!)!"!!&amp;!!Q!1!!"`````Q!!!!%!!1!!!^Y!!!!6!!R!)1:T&gt;'&amp;U&gt;8-!!!J!!Q2D&lt;W2F!!!11$$`````"H.P&gt;8*D:1!!&amp;E"1!!-!!!!"!!)*:8*S&lt;X)A&lt;X6U!!1!!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!#"!=!!3!!%!"22&amp;?'FU)&amp;.U982V=S"3:8.Q&lt;WZT:1!!'%"Q!"E!!1!'$&amp;.U&lt;X!A&lt;76T=W&amp;H:1!!C1$RQG8L9!!!!!)E4X"F&lt;E&gt;@17.U;8:F8U^C;G6D&gt;&amp;^5:7VQ&lt;'&amp;U:3ZM&gt;G.M98.T-5FO&gt;'6S&lt;G&amp;M476T=W&amp;H:8.@4X"F&lt;E&gt;@17.U;8:F8U^C;G6D&gt;&amp;^5:7VQ&lt;'&amp;U:3ZD&gt;'Q!4U"1!!%!"RR$&lt;(6T&gt;'6S)'^G)'FO&gt;'6S&lt;G&amp;M)'VF=X.B:W6T!!!51!I04H6N:8*J9S".:8.T97&gt;F!"Z!=!!:!!%!#2*.?3"/&gt;7VF=GFD)%VF=X.B:W5!!"B!#B*.?3"/&gt;7VF=GFD)%VF=X.B:W5!!""!-0````]'5X2S;7ZH!!!?1(!!%A!"!!Q348EA5X2S;7ZH)&amp;*F=X"P&lt;H.F!!!E1&amp;!!!A!,!!U948EA476T=W&amp;H:3"X;82I)&amp;*F=X"P&lt;H.F!!!E1(!!'1!"!!Y948EA476T=W&amp;H:3"X;82I)&amp;*F=X"P&lt;H.F!!#$!0(#:?LJ!!!!!C20='6O2V^"9X2J&gt;G6@4W*K:7.U8V2F&lt;8"M982F,GRW9WRB=X-N68.F=EVF=X.B:W6T8U^Q:7Z(8U&amp;D&gt;'FW:6^09GJF9X2@6'6N='RB&gt;'5O9X2M!%V!5!!#!!I!$RB$&lt;(6T&gt;'6S)'^G)(6T:8)A&lt;76T=W&amp;H:8-!!(]!]=*F]:=!!!!#*%^Q:7Z(8U&amp;D&gt;'FW:6^09GJF9X2@6'6N='RB&gt;'5O&lt;(:D&lt;'&amp;T=S^09GJF9X2.:8.T97&gt;F=V^0='6O2V^"9X2J&gt;G6@4W*K:7.U8V2F&lt;8"M982F,G.U&lt;!"(1&amp;!!!A!)!"!3476T=W&amp;H:3"3:7:F=G6O9W6T!!"71(!!(A!!!!!!!#9E4X"F&lt;E&gt;@17.U;8:F8U^C;G6D&gt;&amp;^5:7VQ&lt;'&amp;U:3ZM&gt;G.M98.T!!!A4X"F&lt;E&gt;@17.U;8:F8U^C;G6D&gt;&amp;^5:7VQ&lt;'&amp;U:3"P&gt;81!!&amp;2!=!!?!!!!!!!!*C20='6O2V^"9X2J&gt;G6@4W*K:7.U8V2F&lt;8"M982F,GRW9WRB=X-!!"^0='6O2V^"9X2J&gt;G6@4W*K:7.U8V2F&lt;8"M982F)'FO!%E!]!!-!!-!"!!2!")!"!!%!!1!"!!&amp;!!1!"!!4!Q!!?!U)!!!*!!U,!!!!!!!!!!!+!!!!!!!1!!!.!!!!$!!!!!!!!!!!!!!"!"1!!!!!</Property>
@@ -645,6 +740,11 @@
             <Property Name="NI.ClassItem.MethodScope" Type="UInt">2</Property>
             <Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
             <Property Name="NI.ClassItem.State" Type="Int">1350705680</Property>
+            <Property Name="OpenG.ClassItem.CoreName" Type="Str">GetMessageReferences</Property>
+            <Property Name="OpenG.ClassItem.ID" Type="Str">OpenG_Active_Object_Template.lvclass:GetMessageReferences_OpenG_Active_Object_Template.vi</Property>
+            <Property Name="OpenG.ClassItem.TemplateInternal" Type="Bool">true</Property>
+            <Property Name="OpenG.ClassItem.Update" Type="Bool">false</Property>
+            <Property Name="OpenG.ClassItem.UseExtendedName" Type="Bool">true</Property>
          </Item>
          <Item Name="MessageReference_OpenG_Active_Object_Template.ctl" Type="VI" URL="Internal/MessageReference_OpenG_Active_Object_Template.ctl">
             <Property Name="NI.ClassItem.ConnectorPane" Type="Bin">###!!!!!!!)!"!!&amp;!!Q!1!!"`````Q!!!!%!!1!!!!Q!!!!"!!1!!!!"!!!!!!!!</Property>
@@ -654,6 +754,11 @@
             <Property Name="NI.ClassItem.MethodScope" Type="UInt">2</Property>
             <Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
             <Property Name="NI.ClassItem.State" Type="Int">1074532864</Property>
+            <Property Name="OpenG.ClassItem.CoreName" Type="Str">MessageReference</Property>
+            <Property Name="OpenG.ClassItem.ID" Type="Str">OpenG_Active_Object_Template.lvclass:MessageReference_OpenG_Active_Object_Template.vi</Property>
+            <Property Name="OpenG.ClassItem.TemplateInternal" Type="Bool">true</Property>
+            <Property Name="OpenG.ClassItem.Update" Type="Bool">false</Property>
+            <Property Name="OpenG.ClassItem.UseExtendedName" Type="Bool">true</Property>
          </Item>
          <Item Name="ProcessParameters_OpenG_Active_Object_Template.ctl" Type="VI" URL="Internal/ProcessParameters_OpenG_Active_Object_Template.ctl">
             <Property Name="NI.ClassItem.ConnectorPane" Type="Bin">###!!!!!!!)!"!!&amp;!!Q!1!!"`````Q!!!!%!!1!!!!Q!!!!"!!1!!!!"!!!!!!!!</Property>
@@ -663,6 +768,11 @@
             <Property Name="NI.ClassItem.MethodScope" Type="UInt">2</Property>
             <Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
             <Property Name="NI.ClassItem.State" Type="Int">1074532864</Property>
+            <Property Name="OpenG.ClassItem.CoreName" Type="Str">ProcessParameters</Property>
+            <Property Name="OpenG.ClassItem.ID" Type="Str">OpenG_Active_Object_Template.lvclass:ProcessParameters_OpenG_Active_Object_Template.vi</Property>
+            <Property Name="OpenG.ClassItem.TemplateInternal" Type="Bool">true</Property>
+            <Property Name="OpenG.ClassItem.Update" Type="Bool">false</Property>
+            <Property Name="OpenG.ClassItem.UseExtendedName" Type="Bool">true</Property>
          </Item>
          <Item Name="ObjectMessages_OpenG_Active_Object_Template.ctl" Type="VI" URL="Internal/ObjectMessages_OpenG_Active_Object_Template.ctl">
             <Property Name="NI.ClassItem.ConnectorPane" Type="Bin">###!!!!!!!)!"!!&amp;!!Q!1!!"`````Q!!!!%!!1!!!*]!!!!#!""!-0````]'5X2S;7ZH!!#(!0(#"BR\!!!!!C20='6O2V^"9X2J&gt;G6@4W*K:7.U8V2F&lt;8"M982F,GRW9WRB=X-P4W*K:7.U476T=W&amp;H:8.@4X"F&lt;E&gt;@17.U;8:F8U^C;G6D&gt;&amp;^5:7VQ&lt;'&amp;U:3ZD&gt;'Q!4U"1!!%!!"R$&lt;(6T&gt;'6S)'^G)'^C;G6D&gt;#"Q98*B&lt;76U:8*T!!!"!!%!!!!!</Property>
@@ -672,6 +782,11 @@
             <Property Name="NI.ClassItem.MethodScope" Type="UInt">2</Property>
             <Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
             <Property Name="NI.ClassItem.State" Type="Int">1082130944</Property>
+            <Property Name="OpenG.ClassItem.CoreName" Type="Str">ObjectMessages</Property>
+            <Property Name="OpenG.ClassItem.ID" Type="Str">OpenG_Active_Object_Template.lvclass:ObjectMessages_OpenG_Active_Object_Template.vi</Property>
+            <Property Name="OpenG.ClassItem.TemplateInternal" Type="Bool">true</Property>
+            <Property Name="OpenG.ClassItem.Update" Type="Bool">false</Property>
+            <Property Name="OpenG.ClassItem.UseExtendedName" Type="Bool">true</Property>
          </Item>
          <Item Name="InternalMessages_OpenG_Active_Object_Template.ctl" Type="VI" URL="Internal/InternalMessages_OpenG_Active_Object_Template.ctl">
             <Property Name="NI.ClassItem.ConnectorPane" Type="Bin">###!!!!!!!)!"!!&amp;!!Q!1!!"`````Q!!!!%!!1!!!!Q!!!!"!!1!!!!"!!!!!!!!</Property>
@@ -681,6 +796,11 @@
             <Property Name="NI.ClassItem.MethodScope" Type="UInt">2</Property>
             <Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
             <Property Name="NI.ClassItem.State" Type="Int">1074532864</Property>
+            <Property Name="OpenG.ClassItem.CoreName" Type="Str">InternalMessages</Property>
+            <Property Name="OpenG.ClassItem.ID" Type="Str">OpenG_Active_Object_Template.lvclass:InternalMessages_OpenG_Active_Object_Template.vi</Property>
+            <Property Name="OpenG.ClassItem.TemplateInternal" Type="Bool">true</Property>
+            <Property Name="OpenG.ClassItem.Update" Type="Bool">false</Property>
+            <Property Name="OpenG.ClassItem.UseExtendedName" Type="Bool">true</Property>
          </Item>
       </Item>
       <Item Name="Public" Type="Folder">
