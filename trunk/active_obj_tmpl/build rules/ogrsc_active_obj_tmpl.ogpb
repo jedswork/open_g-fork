@@ -1,7 +1,7 @@
 [Package Name]
 Name=ogrsc_active_obj_tmpl
-Version=0.1
-Release=3
+Version=0.2
+Release=0
 
 [Description]
 Description="Template for active asynchronous by-reference object classes in LabVIEW Object-Oriented Programming"
@@ -35,75 +35,65 @@ Requires=oglib_openg_object>=0.1
 Conflicts=""
 
 [Files]
-Num File Groups=10
+Num File Groups=1
 
 [File Group 0]
 Source Dir=../source/template
 Target Dir=<resource>/OpenG/openg_object/class_templates/OpenG_Active_Object_Template
 Replace Mode=Always
-Num Files=1
-File 0=*.*
+Num Files=54
 
-[File Group 1]
-Source Dir=../source/template/Templates
-Target Dir=<resource>/OpenG/openg_object/class_templates/OpenG_Active_Object_Template/Templates
-Replace Mode=Always
-Num Files=1
-File 0=*.*
-
-[File Group 2]
-Source Dir=../source/template/Internal
-Target Dir=<resource>/OpenG/openg_object/class_templates/OpenG_Active_Object_Template/Internal
-Replace Mode=Always
-Num Files=1
-File 0=*.*
-
-[File Group 3]
-Source Dir=../source/template/Data_Access
-Target Dir=<resource>/OpenG/openg_object/class_templates/OpenG_Active_Object_Template/Data_Access
-Replace Mode=Always
-Num Files=1
-File 0=*.*
-
-[File Group 4]
-Source Dir=../source/template/Definitions
-Target Dir=<resource>/OpenG/openg_object/class_templates/OpenG_Active_Object_Template/Definitions
-Replace Mode=Always
-Num Files=1
-File 0=*.*
-
-[File Group 5]
-Source Dir=../source/template/Definitions/Transformations
-Target Dir=<resource>/OpenG/openg_object/class_templates/OpenG_Active_Object_Template/Definitions/Transformations
-Replace Mode=Always
-Num Files=1
-File 0=*.*
-
-[File Group 6]
-Source Dir=../source/template/Definitions/Data
-Target Dir=<resource>/OpenG/openg_object/class_templates/OpenG_Active_Object_Template/Definitions/Data
-Replace Mode=Always
-Num Files=1
-File 0=*.*
-
-[File Group 7]
-Source Dir=../source/template/Definitions/Construction_&_Destruction
-Target Dir=<resource>/OpenG/openg_object/class_templates/OpenG_Active_Object_Template/Definitions/Construction_&_Destruction
-Replace Mode=Always
-Num Files=1
-File 0=*.*
-
-[File Group 8]
-Source Dir=../source/template/Definitions/Process
-Target Dir=<resource>/OpenG/openg_object/class_templates/OpenG_Active_Object_Template/Definitions/Process
-Replace Mode=Always
-Num Files=1
-File 0=*.*
-
-[File Group 9]
-Source Dir=../source/template/Process_Control_And_Messaging
-Target Dir=<resource>/OpenG/openg_object/class_templates/OpenG_Active_Object_Template/Process_Control_And_Messaging
-Replace Mode=Always
-Num Files=1
-File 0=*.*
-
+File 0=ClassHierarchy.vi
+File 1=Clone.vi
+File 2=Close.vi
+File 3=Create_OpenG_Active_Object_Template.vi
+File 4=OpenG_Active_Object_Template.lvclass
+File 5=Templates/AlternativeCreate_OpenG_Active_Object_Template.vi
+File 6=Templates/Atomic_OpenG_Active_Object_Template.vi
+File 7=Templates/FunctionalClassVariable_OpenG_Active_Object_Template.vi
+File 8=Templates/GetProperty_OpenG_Active_Object_Template.vi
+File 9=Templates/NoneModifing_OpenG_Active_Object_Template.vi
+File 10=Templates/ReadData_OpenG_Active_Object_Template.vi
+File 11=Templates/ReadWriteData_OpenG_Active_Object_Template.vi
+File 12=Templates/SendMessage_OpenG_Active_Object_Template.vi
+File 13=Templates/SendMessageWaitForResponse_OpenG_Active_Object_Template.vi
+File 14=Templates/SendMessageWithResponse_OpenG_Active_Object_Template.vi
+File 15=Templates/SetProperty_OpenG_Active_Object_Template.vi
+File 16=Templates/WriteData_OpenG_Active_Object_Template.vi
+File 17=Process_Control_And_Messaging/GetUserMessageReferences_OpenG_Active_Object_Template.vi
+File 18=Process_Control_And_Messaging/StartProcess_OpenG_Active_Object_Template.vi
+File 19=Process_Control_And_Messaging/StopProcess_OpenG_Active_Object_Template.vi
+File 20=Internal/CleanUp.vi
+File 21=Internal/CloseProcessReference_OpenG_Active_Object_Template.vi
+File 22=Internal/Finalize.vi
+File 23=Internal/FlattenToXMLInternal.vi
+File 24=Internal/GetMessageReferences_OpenG_Active_Object_Template.vi
+File 25=Internal/Initialize.vi
+File 26=Internal/InitializeMessages_OpenG_Active_Object_Template.vi
+File 27=Internal/InitializeProcessReference_OpenG_Active_Object_Template.vi
+File 28=Internal/InternalMessageConstructor_OpenG_Active_Object_Template.vi
+File 29=Internal/InternalMessageDestructor_OpenG_Active_Object_Template.vi
+File 30=Internal/InternalMessages_OpenG_Active_Object_Template.ctl
+File 31=Internal/MessageReference_OpenG_Active_Object_Template.ctl
+File 32=Internal/ObjectFactory_OpenG_Active_Object_Template.vi
+File 33=Internal/ObjectMessages_OpenG_Active_Object_Template.ctl
+File 34=Internal/ProcessContainer_OpenG_Active_Object_Template.vi
+File 35=Internal/ProcessParameters_OpenG_Active_Object_Template.ctl
+File 36=Internal/Reset.vi
+File 37=Definitions/Version_OpenG_Active_Object_Template.vi
+File 38=Definitions/Transformations/PrivateDataToXML_OpenG_Active_Object_Template.vi
+File 39=Definitions/Process/Process_OpenG_Active_Object_Template.vi
+File 40=Definitions/Data/ObjectParameters_OpenG_Active_Object_Template.ctl
+File 41=Definitions/Data/ObjectPrivateData_OpenG_Active_Object_Template.ctl
+File 42=Definitions/Data/ProcessState_OpenG_Active_Object_Template.ctl
+File 43=Definitions/Data/UserMessages_OpenG_Active_Object_Template.ctl
+File 44=Definitions/Construction_&_Destruction/CloneConstructor.vi
+File 45=Definitions/Construction_&_Destruction/Constructor_OpenG_Active_Object_Template.vi
+File 46=Definitions/Construction_&_Destruction/Destructor_OpenG_Active_Object_Template.vi
+File 47=Definitions/Construction_&_Destruction/UserMessageConstructor_OpenG_Active_Object_Template.vi
+File 48=Definitions/Construction_&_Destruction/UserMessageDestructor_OpenG_Active_Object_Template.vi
+File 49=Data_Access/GetData_OpenG_Active_Object_Template.vi
+File 50=Data_Access/GetDataInstantly_OpenG_Active_Object_Template.vi
+File 51=Data_Access/PreviewData_OpenG_Active_Object_Template.vi
+File 52=Data_Access/PreviewDataInstantly_OpenG_Active_Object_Template.vi
+File 53=Data_Access/SetData_OpenG_Active_Object_Template.vi
