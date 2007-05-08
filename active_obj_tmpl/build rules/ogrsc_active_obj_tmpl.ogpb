@@ -31,7 +31,7 @@ PostBuild=""
 
 [Dependencies]
 AutoReqProv=FALSE
-Requires=oglib_openg_object>=0.1
+Requires=oglib_openg_object>=0.2
 Conflicts=""
 
 [Files]
