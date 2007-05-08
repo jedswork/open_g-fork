@@ -1,7 +1,7 @@
 [Package Name]
 Name=ogrsc_pure_abstract_ref_class_tmpl
-Version=0.1
-Release=1
+Version=0.2
+Release=0
 
 [Description]
 Description="Template for pure abstract by-reference classes in LabVIEW Object-Oriented Programming"
@@ -31,31 +31,22 @@ PostBuild=""
 
 [Dependencies]
 AutoReqProv=FALSE
-Requires=oglib_openg_object>=0.1
+Requires=oglib_openg_object>=0.2
 Conflicts=""
 
 [Files]
-Num File Groups=3
+Num File Groups=1
 
 [File Group 0]
 Source Dir=../source/template
 Target Dir=<resource>/OpenG/openg_object/class_templates/OpenG_Pure_Abstract_Reference_Class_Template
 Replace Mode=Always
-Num Files=1
-File 0=*.*
+Num Files=5
 
-[File Group 1]
-Source Dir=../source/template/Internal
-Target Dir=<resource>/OpenG/openg_object/class_templates/OpenG_Pure_Abstract_Reference_Class_Template/Internal
-Replace Mode=Always
-Num Files=1
-File 0=*.*
-
-[File Group 2]
-Source Dir=../source/template/Definitions
-Target Dir=<resource>/OpenG/openg_object/class_templates/OpenG_Pure_Abstract_Reference_Class_Template/Definitions
-Replace Mode=Always
-Num Files=1
-File 0=*.*
+File 0=ClassHierarchy.vi
+File 1=OpenG_Pure_Abstract_Reference_Class_Template.lvclass
+File 2=Internal/FlattenToXMLInternal.vi
+File 3=Internal/Initialize.vi
+File 4=Definitions/Version_OpenG_Pure_Abstract_Reference_Class_Template.vi
 
 
