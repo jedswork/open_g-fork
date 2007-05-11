@@ -1,6 +1,6 @@
 [Package Name]
 Name=ogrsc_active_obj_tmpl
-Version=0.2
+Version=0.2.2
 Release=0
 
 [Description]
@@ -42,7 +42,6 @@ Source Dir=../source/template
 Target Dir=<resource>/OpenG/openg_object/class_templates/OpenG_Active_Object_Template
 Replace Mode=Always
 Num Files=54
-
 File 0=ClassHierarchy.vi
 File 1=Clone.vi
 File 2=Close.vi
@@ -97,3 +96,4 @@ File 50=Data_Access/GetDataInstantly_OpenG_Active_Object_Template.vi
 File 51=Data_Access/PreviewData_OpenG_Active_Object_Template.vi
 File 52=Data_Access/PreviewDataInstantly_OpenG_Active_Object_Template.vi
 File 53=Data_Access/SetData_OpenG_Active_Object_Template.vi
+
