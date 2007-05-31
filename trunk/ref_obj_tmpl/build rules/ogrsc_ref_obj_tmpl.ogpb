@@ -1,13 +1,13 @@
 [Package Name]
 Name=ogrsc_ref_obj_tmpl
-Version=0.2
+Version=0.3
 Release=0
 
 [Description]
-Description="Template for queue based by-reference classes in LabVIEW Object-Oriented Programming"
+Description="Template for queue based by-reference classes"
 Summary="OpenG Reference Object Template"
 License=BSD
-Copyright="Copyright (c) 2007 Tomi Maila. All rights reserved."
+Copyright="Copyright (c) 2007, Tomi Maila\0ACopyright (c) 2007, Endevo AB"
 Distribution=""
 Icon=../resource/icon.bmp
 Vendor=OpenG.org
@@ -31,7 +31,7 @@ PostBuild=""
 
 [Dependencies]
 AutoReqProv=FALSE
-Requires=oglib_openg_object>=0.2
+Requires=oglib_openg_object>=0.3
 Conflicts=""
 
 [Files]
@@ -74,4 +74,3 @@ File 28=Data_Access/GetDataInstantly_OpenG_Reference_Object_Template.vi
 File 29=Data_Access/PreviewData_OpenG_Reference_Object_Template.vi
 File 30=Data_Access/PreviewDataInstantly_OpenG_Reference_Object_Template.vi
 File 31=Data_Access/SetData_OpenG_Reference_Object_Template.vi
-
