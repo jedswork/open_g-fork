@@ -1,7 +1,7 @@
 [Package Name]
 Name=ogrsc_pure_abstract_ref_class_tmpl
-Version=0.3
-Release=0-beta
+Version=1.0beta1
+Release=1
 
 [Description]
 Description="Template for pure abstract by-reference classes"
@@ -31,7 +31,7 @@ PostBuild=""
 
 [Dependencies]
 AutoReqProv=FALSE
-Requires=oglib_openg_object>=0.3
+Requires=oglib_openg_object>=1.0beta1
 Conflicts=""
 
 [Files]
