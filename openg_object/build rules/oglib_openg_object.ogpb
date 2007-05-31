@@ -1,13 +1,13 @@
 [Package Name]
 Name=oglib_openg_object
-Version=0.2
+Version=0.3
 Release=0
 
 [Description]
 Description="OpenG Base Classes for LabVIEW Object Oriented Programming"
 Summary="OpenG Base Classes"
 License=BSD
-Copyright="Copyright (c) 2007 Tomi Maila. All rights reserved."
+Copyright="Copyright (c) 2007, Tomi Maila\0ACopyright (c) 2007, Endevo AB"
 Distribution="OpenG Toolkit"
 Icon=../resource/Icon.bmp
 Vendor=OpenG.org
