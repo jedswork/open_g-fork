@@ -1,7 +1,7 @@
 [Package Name]
 Name=ogrsc_pure_abstract_ref_class_tmpl
 Version=0.3
-Release=0
+Release=0-beta
 
 [Description]
 Description="Template for pure abstract by-reference classes"
