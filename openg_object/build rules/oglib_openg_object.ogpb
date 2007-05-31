@@ -1,7 +1,7 @@
 [Package Name]
 Name=oglib_openg_object
 Version=0.3
-Release=0
+Release=0-beta
 
 [Description]
 Description="OpenG Base Classes for LabVIEW Object Oriented Programming"
