@@ -1,0 +1,167 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+</head>
+
+
+<body>
+
+<h1>OpenG Class Templates for LabVOOP</h1>
+
+<h2>Overview</h2>
+
+The OpenG Class Templates for LabVOOP (<span style="font-weight: bold;">LabV</span>IEW <span style="font-weight: bold;">O</span>bject <span style="font-weight: bold;">O</span>riented <span style="font-weight: bold;">P</span>rogramming) are a set of templates for creating classes beyond the simple by value objects provided natively in LabVIEW.<br>
+
+<br>
+
+There are currently three templates:<br>
+
+<ul>
+
+  <li>queue based by-reference
+class</li>
+
+  <li>pure abstract
+by-reference class</li>
+
+  <li>active asynchronous by-reference class</li>
+
+</ul>
+
+Each of these class templates depends on (inherits from) an OpenG base
+class. &nbsp;This allows the base classes to be improved without the
+need for users of the class templates to make the improves themselves.<br>
+
+
+There are currently two base classes:
+<ul>
+
+  <li>OpenG object</li>
+
+  <li>OpenG reference object</li>
+
+</ul>
+
+
+
+<h2>Installation Instructions</h2>
+
+<div style="margin-left: 40px;"><span style="font-weight: bold;">1) Download and install VI Package Manager. &nbsp;See these two useful
+links:</span></div>
+
+
+<ul style="margin-left: 40px;">
+
+
+  <li><a href="http://forums.jkisoft.com/index.php?showtopic=233">How
+do I use VIPM to get OpenG libraries installed onto LabVIEW?</a></li>
+
+
+  <li><a href="http://forums.jkisoft.com/index.php?showtopic=352" target="_blank">Getting Started with VIPM and Installing
+OpenG Libraries into LabVIEW</a></li>
+
+
+</ul>
+
+<div style="margin-left: 40px;"><span style="font-weight: bold;">
+2) Download the OpenG class templates and support library.</span> <span style="font-style: italic;">(Note: They are not yet available
+for
+download using VIPM, but will be, after officially released.)</span></div>
+
+
+<ul style="margin-left: 40px;">
+
+
+  <li><a href="http://www.helsinki.fi/%7Etmaila/OpenG/packages/oglib_openg_object-1.0beta1-1.ogp">oglib_openg_object-1.0beta1-1.ogp</a>
+(OpenG Base Classes for LabVIEW Object Oriented Programming)
+  </li>
+
+
+  <li><a href="http://www.helsinki.fi/%7Etmaila/OpenG/packages/ogrsc_active_obj_tmpl-1.0beta1-1.ogp">ogrsc_active_obj_tmpl-1.0beta1-1.ogp</a> (Template for active asynchronous by-reference object classes in LabVIEW Object-Oriented Programming)
+  </li>
+
+
+  <li><a href="http://www.helsinki.fi/%7Etmaila/OpenG/packages/ogrsc_ref_obj_tmpl-1.0beta1-1.ogp">ogrsc_pure_abstract_ref_class_tmpl-1.0beta1-1.ogp</a> (Template for pure abstract by-reference classes)</li>
+
+
+  <li><a href="http://www.helsinki.fi/%7Etmaila/OpenG/packages/ogrsc_ref_obj_tmpl-1.0beta1-1.ogp">ogrsc_ref_obj_tmpl-1.0beta1-1.ogp</a> (Template for queue based by-reference classes)</li>
+
+
+</ul>
+
+<div style="margin-left: 40px;"><span style="font-weight: bold;">3) Add OpenG object packages to your VIPM library</span><br style="font-weight: bold;">
+
+Open VIPM and select <span style="font-style: italic;">Package&gt;&gt;Add Package(s) to Package List</span>.
+&nbsp;Browse to the folder containing the packages that you just
+downloaded, select the packages, and press the "Add" button. &nbsp;The
+packages will appear in VIPM's<br>
+
+<br>
+
+<span style="font-weight: bold;">4) Install the OpenG object packages</span><br style="font-weight: bold;">
+
+From the VIPM Package list, find the OpenG object packages. &nbsp;Right-click on them and select <span style="font-style: italic;">Install</span>.<br>
+
+<br>
+
+<span style="font-weight: bold;">5) Restart LabVIEW</span><br style="font-weight: bold;">
+
+If LabVIEW is currently running, restart LabVIEW.</div>
+
+
+<ol type="1">
+
+
+  
+  <ul>
+
+
+  
+  </ul>
+
+
+</ol>
+
+<h2>Using OpenG class templates from within Endevo GDS</h2>
+<a href="http://www.endevo.se/"><img style="border: 0px solid ; width: 200px; height: 47px; float: right;" alt="Endevo" title="Endevo" src="images/Endevo_logga_vit.png"></a>The
+OpenG class templates may be used in conjuction with the Endevo GDS
+tool. &nbsp;This tools allows you to create new classes from the
+templates, edit your classes, and even create your own class templates!
+&nbsp;We are very thankful to Endevo for thier support of OpenG and for
+making the GDS Community Edition version of thier tool freely available.
+<h3>Obtaining the Endevo GDS Tool</h3>
+The Endevo GDS Tool must be obtained from Endevo. &nbsp;Visit them on the web at <a href="http://www.endevo.se/">http://www.endevo.se</a> for a free download of Endevo GDS Community Edition.
+<h3>Configuring Endevo GDS to use the OpenG class templates</h3>
+
+First, make sure that you have installed the Endevo GDS tool according to its
+installation instructions and that you have restarted LabVIEW <span style="font-style: italic;">after</span> installing both the Endevo GDS and the OpenG class templates and libraries.<br>
+
+<br>
+
+In order for the Endevo GDS to use the OpenG class templates, you will
+need to configure it to use the OpenG class provider. &nbsp;To do this,
+open the <span style="font-weight: bold;">GOOP Options Dialog</span> (shown below) by selecting <span style="font-style: italic;">Tools&gt;&gt;GOOP&gt;&gt;Class Provider Options</span> from them menu. (You can also open this dialog from within the LabVIEW Project Explorer window by pressing the <img style="width: 16px; height: 16px;" alt="GOOP Options Toolbar Button" title="GOOP Options Toolbar Button" src="images/GOOP%20Options%20Dialog%20Toolbar%20Button.png"> button on the toolbar).<br>
+
+<br>
+
+<img style="width: 307px; height: 302px;" alt="GOOP Options Dialog" title="GOOP Options Dialog" src="images/GOOP%20Options%20Dialog%20OpenG100.png"><br>
+
+<br>
+
+Ensure that the OpenG class provider is selected and press OK.
+&nbsp;The Endevo GDS tool is now configured to use the OpenG class
+templates.<br>
+
+<h3>Creating new classes from the OpenG templates</h3>
+
+You will see them available from the <span style="font-weight: bold;">Create Class Dialog</span> (shown below) when you select <span style="font-style: italic;">New&gt;&gt;GOOP Class</span> from the project explorer right-click menu.<br>
+
+<br>
+
+<img style="width: 521px; height: 596px;" alt="Create Class Dialog" title="Create Class Dialog" src="images/Create%20Class%20Dialog%20%28OpenG%29.png"><br>
+
+<br>
+
+
+</body>
+</html>
