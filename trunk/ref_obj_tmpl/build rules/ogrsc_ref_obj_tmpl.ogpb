@@ -1,7 +1,7 @@
 [Package Name]
 Name=ogrsc_ref_obj_tmpl
 Version=0.3
-Release=0
+Release=0-beta
 
 [Description]
 Description="Template for queue based by-reference classes"
