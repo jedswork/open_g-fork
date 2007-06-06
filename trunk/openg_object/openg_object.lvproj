@@ -88,7 +88,6 @@
          <Item Name="OpenG_Value_Object.ctl" Type="Class Private Data" URL="source/library/_OpenG.lib/openg_object/openg_value_object.llb/OpenG_Value_Object.lvclass/OpenG_Value_Object.ctl"/>
          <Item Name="Construction &amp; Destruction" Type="Folder">
             <Item Name="Constructor_OpenG_Value_Object.vi" Type="VI" URL="source/library/_OpenG.lib/openg_object/openg_value_object.llb/Constructor_OpenG_Value_Object.vi"/>
-            <Item Name="CloneConstructor.vi" Type="VI" URL="source/library/_OpenG.lib/openg_object/openg_value_object.llb/CloneConstructor.vi"/>
          </Item>
          <Item Name="Internal" Type="Folder">
             <Item Name="Protected" Type="Folder">
