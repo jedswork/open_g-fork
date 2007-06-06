@@ -1,0 +1,62 @@
+[Package Name]
+Name=ogrsc_val_obj_tmpl
+Version=1.0beta1
+Release=1
+
+[Description]
+Description="Template for by-value classes"
+Summary="OpenG Value Object Template"
+License=BSD
+Copyright="Copyright (c) 2007, Tomi Maila\0ACopyright (c) 2007, Endevo AB"
+Distribution=""
+Icon=../resource/icon.bmp
+Vendor=OpenG.org
+URL=""
+Packager="Tomi Maila <tomi.maila@iki.fi>"
+
+[Platform]
+Exclusive_LabVIEW_Version=>=8.2
+Exclusive_LabVIEW_System="Development System"
+Exclusive_OS=ALL
+
+[Script VIs]
+Source Dir=""
+PreInstall=""
+PostInstall=""
+PreUninstall=""
+PostUninstall=""
+Verify=""
+PreBuild=""
+PostBuild=""
+
+[Dependencies]
+AutoReqProv=FALSE
+Requires=oglib_openg_object>=1.0beta4
+Conflicts=""
+
+[Files]
+Num File Groups=1
+
+[File Group 0]
+Source Dir=../source/template
+Target Dir=<resource>/OpenG/openg_object/class_templates/OpenG_Value_Object_Template
+Replace Mode=Always
+Num Files=18
+File 0=ClassHierarchy.vi
+File 1=Create_OpenG_Value_Object_Template.vi
+File 2=OpenG_Value_Object_Template.lvclass
+File 3=Templates/AlternativeCreate_OpenG_Value_Object_Template.vi
+File 4=Templates/FunctionalClassVariable_OpenG_Value_Object_Template.vi
+File 5=Templates/GetProperty_OpenG_Value_Object_Template.vi
+File 6=Templates/methods.ini
+File 7=Templates/NoneModifing_OpenG_Value_Object_Template.vi
+File 8=Templates/ReadData_OpenG_Value_Object_Template.vi
+File 9=Templates/ReadWriteData_OpenG_Value_Object_Template.vi
+File 10=Templates/SetProperty_OpenG_Value_Object_Template.vi
+File 11=Templates/WriteData_OpenG_Value_Object_Template.vi
+File 12=Internal/FlattenToXMLInternal.vi
+File 13=Definitions/Version_OpenG_Value_Object_Template.vi
+File 14=Definitions/Transformations/PrivateDataToXML_OpenG_Value_Object_Template.vi
+File 15=Definitions/Data/ObjectParameters_OpenG_Value_Object_Template.ctl
+File 16=Definitions/Data/ObjectPrivateData_OpenG_Value_Object_Template.ctl
+File 17=Definitions/Construction_&_Destruction/Constructor_OpenG_Value_Object_Template.vi
