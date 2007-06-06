@@ -1,6 +1,6 @@
 [Package Name]
 Name=oglib_openg_object
-Version=1.0beta2
+Version=1.0beta3
 Release=1
 
 [Description]
@@ -108,12 +108,11 @@ File 27=Version_OpenG_Reference_Object.vi
 Source Dir=../source/library/_OpenG.lib/openg_object/openg_value_object.llb
 Target Dir=<OpenG.lib>/openg_object/openg_value_object.llb
 Replace Mode=Always
-Num Files=7
-
+Num Files=6
 File 0=ClassHierarchy.vi
-File 1=CloneConstructor.vi
-File 2=Constructor_OpenG_Value_Object.vi
-File 3=FlattenToXMLInternal.vi
-File 4=InternalGenerateValObjXML.vi
-File 5=OpenG_Value_Object.lvclass
-File 6=Version_OpenG_Value_Object.vi
+File 1=Constructor_OpenG_Value_Object.vi
+File 2=FlattenToXMLInternal.vi
+File 3=InternalGenerateValObjXML.vi
+File 4=OpenG_Value_Object.lvclass
+File 5=Version_OpenG_Value_Object.vi
+
