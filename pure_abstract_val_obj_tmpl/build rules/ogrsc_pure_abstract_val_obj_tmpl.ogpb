@@ -1,0 +1,48 @@
+[Package Name]
+Name=ogrsc_pure_abstract_val_obj_tmpl
+Version=1.0beta1
+Release=1
+
+[Description]
+Description="Template for pure abstract by-value classes"
+Summary="OpenG Pure Abstract Value Object Template"
+License=BSD
+Copyright="Copyright (c) 2007, Tomi Maila\0ACopyright (c) 2007, Endevo AB"
+Distribution=""
+Icon=../resource/icon.bmp
+Vendor=OpenG.org
+URL=""
+Packager="Tomi Maila <tomi.maila@iki.fi>"
+
+[Platform]
+Exclusive_LabVIEW_Version=>=8.2
+Exclusive_LabVIEW_System="Development System"
+Exclusive_OS=ALL
+
+[Script VIs]
+Source Dir=""
+PreInstall=""
+PostInstall=""
+PreUninstall=""
+PostUninstall=""
+Verify=""
+PreBuild=""
+PostBuild=""
+
+[Dependencies]
+AutoReqProv=FALSE
+Requires=oglib_openg_object>=1.0beta4
+Conflicts=""
+
+[Files]
+Num File Groups=1
+
+[File Group 0]
+Source Dir=../source/template
+Target Dir=<resource>/OpenG/openg_object/class_templates/OpenG_Pure_Abstract_Value_Object_Template
+Replace Mode=Always
+Num Files=4
+File 0=ClassHierarchy.vi
+File 1=OpenG_Pure_Abstract_Value_Object_Template.lvclass
+File 2=Internal/FlattenToXMLInternal.vi
+File 3=Definitions/Version_OpenG_Pure_Abstract_Value_Object_Template.vi
