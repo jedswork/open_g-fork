@@ -1,0 +1,4 @@
+* [done?] Revise all dependencies on palette to version 0.2, instead of 2.0
+
+
+* change all package URLs to be similar to the following http://wiki.openg.org/oglib_lvdata
