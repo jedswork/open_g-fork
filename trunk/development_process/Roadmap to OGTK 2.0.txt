@@ -1,0 +1,15 @@
+Prior to releasing OpenG Toolkit 2.0
+
+ - release dynamic palette view, Create Dynamic Palette View project, developer, documentation pages.
+ - explain renaming as *__ogtk.vi
+ - explain how to relink your code to *__ogtk.vi, using rename folder of VIs.  Perhaps build a special tool to help users automatically do this.
+ - put all this info and roadmap on OpenG.org.  Create OpenG Toolkit Documentation and Developer pages, there.  Put a roadmap, etc.
+ - define what's in a library package.  Two types of packages (1) zip and (2) ogp.
+ - Define the release process.  Release process should include a roadmap to release.  Define version numbering.  Should include voting on features, perhaps.  How to RFE proposals get accepted?  How do bugs get fixed.  Changelog... where is it kept.  How is a changelog and release notes created (automatically from CVS)?.  CVS changelog with commit comments.
+ - The documentation in a library/package should have links to the libraries' home pages for bug, RFE, and other feedback.
+ - consider building dependencies into some libraries (i.e. build error into lvdata)
+ - Library Developer page should detail how developers should perform development.  For example, all OpenG library dependencies should be installed at ./user.lib/_OpenG.lib/ so that all developers link to the same file locations.
+ + Define build and package process.  Jim Kring will be responsible for builds until automated tools and build process is finalized.
+   - Build opengtoolkit VIs using the DEAB, update OpenG Tags with CVS info.
+   - Library packages should be named "oglib_*.ogp" so that they are recognizable as library packages
+

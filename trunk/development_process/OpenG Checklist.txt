@@ -1,0 +1,12 @@
+has 2D Controls?
+
+are references labeled "{object-name}" and "{object-name} out"?
+
+are the controls and indicators right alligned?
+
+are all the controls and indicator labels lower-case?
+
+Does the class have a puble "not a {object-name}" or "object status" VI?
+
+Does each VI have an "[OpenG VI Tags] ***Do Not Remove***" floating label?
+
