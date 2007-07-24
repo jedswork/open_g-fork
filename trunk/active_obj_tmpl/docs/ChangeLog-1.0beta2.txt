@@ -1,0 +1,2 @@
+2007-07-24
+[FIX 1759176] SetData function does not unlock data when error in is TRUE
