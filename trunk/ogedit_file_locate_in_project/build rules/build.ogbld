@@ -21,7 +21,7 @@ Unsaved Changes MsgBox=TRUE
 Ambiguous VIs Dest Dir=""
 Call Pre-Build VI=""
 Call Post-Build VI=""
-Revision File=""
+Revision File="build rules/build.rev"
 Version VI Name=""
 Version Ctrl Name=""
 Apply New Password=""
@@ -55,5 +55,4 @@ Save Level=-1
 FP.Title="Locate in Project"
 FP.PanelBounds="3000; 3000; 3000; 3000"
 Exec.RunOnOpen=True
-
 
