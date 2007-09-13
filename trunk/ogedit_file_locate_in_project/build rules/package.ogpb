@@ -1,6 +1,6 @@
 [Package Name]
 Name=ogedit_file_locate_in_project
-Version=1.0.0.4
+Version=1.0.0.2
 Release=1
 [Description]
 Description=Adds a 'Locate in Project' option to the File menu
