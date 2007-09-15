@@ -1,0 +1,5 @@
+[1.0]
+date=2007-09-15
+release_id=539744
+md5=a7afcba76f1f852d57dca36675e53492
+
