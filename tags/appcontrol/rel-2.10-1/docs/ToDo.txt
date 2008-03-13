@@ -1,2 +1,0 @@
-- Update release notes
-- Update "Dist Build App from LLB (proxy).vi" for LabVIEW 7.1, 8.0, and 8.2
