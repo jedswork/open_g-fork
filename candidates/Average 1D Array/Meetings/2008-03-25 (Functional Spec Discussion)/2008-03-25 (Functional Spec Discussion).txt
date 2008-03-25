@@ -49,6 +49,8 @@
 
 -= Action Items =-
 
+* Jim will look into Chris's sf.net SVN permissions
+
 1) Jim will send meeting notes to meeting participants to use for next steps (3/25)
 
 2) Justin should update the functional spec by early next week (EOD Monday, 3/31)
