@@ -12,14 +12,15 @@
 
 * Poly member labels should be "of Rows" and "of Columns"
 
-* 2D in - 1D out members should have an "arithmetic mean of rows" and "arithmetic mean of columns"
+* 1D in, scalar out member output indicator should be labelled "arithmetic mean"
+
+* 2D in, 1D out members output indicator should be labelled "arithmetic mean of rows" and "arithmetic mean of columns"
 
 * Use 3x3 icon to facilitate primitive-like icon/connector
 
 * VI Names: "Arithmetic Mean.vi" - "(2D Rows)", "(2D Columns)"
 
 * Code will be developed in 8.2.  We'll see how much push-back we get.
-
 
 * Drop NaN/Inf filtering because this is easy done.
 
