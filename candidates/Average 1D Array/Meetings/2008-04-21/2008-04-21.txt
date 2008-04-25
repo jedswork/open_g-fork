@@ -1,0 +1,20 @@
+-= Personnel =-
+(all via Skype)
+Justin Goeres
+Jim Kring
+Chris Relf
+
+-= Decisions =-
+
+* Per discussions on OpenG/LAVA forums, all poly members are to be non-reentrant. (unanimously agreed)
+
+* Per discussions on OpenG/LAVA forums, all poly members are to be subroutine priority. (unanimously agreed)
+
+
+-= Other Notes =-
+
+* None
+
+-= Action Items =-
+
+* Justin & Chris to complete assigned Sourceforge tasks.
