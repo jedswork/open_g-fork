@@ -1,4 +1,11 @@
+package_id = 62513
+
 [2.3]
 date=2006-01-01
 release_id=475089
 md5=c2dcd0eb8a9ca1fddb4706d6b9a78baf
+
+[3.0]
+date=2008-05-26
+release_id=602161
+md5=8bdbc74d62886728df855de525ec140f
