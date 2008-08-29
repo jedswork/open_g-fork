@@ -1,0 +1,1 @@
+This release (1) fixes a problem with handling reentrant VIs in LabVIEW 8.x, (2) adds tip strips on all Front Panel controls, (3) and adds an about dialog
