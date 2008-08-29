@@ -1,0 +1,56 @@
+[Package Name]
+
+Name=ogrsc_rename_folder_of_vis
+
+Version=2.0
+
+Release=1
+
+
+[Description]
+
+Description="Adds a 'Rename Folder of VIs...' option to the File menu"
+
+Summary="Rename Folder of VIs...'
+
+License=BSD
+
+Copyright=2002-2008 Jim Kring
+
+Distribution=OpenG Toolkit
+
+Icon=../docs/rename_folder_of_vis.bmp
+
+Vendor=OpenG.org
+
+URL=http://opengtoolkit.sourceforge.net/
+
+Packager=Jim Kring <jim@jimkring.com> 
+
+
+[Platform]
+
+Exclusive_LabVIEW_Version=>=8.2
+
+Exclusive_LabVIEW_System=All
+
+Exclusive_OS=All
+
+
+[Files]
+
+Num File Groups=1
+
+
+[File Group 0]
+
+Source Dir="../built/LLB"
+Target Dir="<application>/wizard"
+
+Replace Mode=Always
+
+Num Files=2
+
+File 0="*"
+File 1="_rename_folder_of_vis/*"
+

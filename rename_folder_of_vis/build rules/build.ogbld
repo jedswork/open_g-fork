@@ -1,0 +1,69 @@
+[General]
+Namespace=RFOV
+Build Root=built/LLB
+Overwrite Existing Files=TRUE
+File Format Version=1.0.2
+Project Root=..
+Source Root=source
+Log Dir=""
+Log File=""
+Log File Suffix=""
+Include Help Files=FALSE
+Help File Dir=""
+Include Shared Libs=TRUE
+Shared Lib Dir=""
+Include External Subrs=TRUE
+External Subr Dir=""
+Include Hidden VIs=TRUE
+EXE Icon File=""
+New Build Root=TRUE
+Unsaved Changes MsgBox=TRUE
+Ambiguous VIs Dest Dir=""
+Call Pre-Build VI=""
+Call Post-Build VI=""
+Revision File="build rules/revision.ini"
+Version VI Name=RFOVIs--GetVersion.vi
+Version Ctrl Name="Version Info"
+Apply New Password=""
+RemovePolyVIsAndTypedefs=FALSE
+Allow CBVI & Build Hierarchy Overlap=FALSE
+Namespace Convention=0
+EXE App Flags=4
+EXE LVRT Res Flags=0
+
+[Top Level VIs]
+VI 1=Rename_Folder_of_VIs.vi
+
+[Dynamic VIs]
+DynVI 1=support/RFOVIs--GetVersion.vi
+
+[Exclude Lib Dirs from Build]
+LibDir 1=<vi.lib>
+
+[Destination 1]
+Source Dir=""
+Target Dir=""
+Convert Target to LLB=FALSE
+Convert Target to EXE=FALSE
+Save Level=0
+Default Destination=FALSE
+Apply New Password=""
+Namespace=""
+Debug Level=0
+
+[Destination 2]
+Source Dir=support
+Target Dir=_rename_folder_of_vis
+Convert Target to LLB=FALSE
+Convert Target to EXE=FALSE
+Save Level=0
+Default Destination=TRUE
+Apply New Password=""
+Namespace=""
+Debug Level=0
+
+[VI Property - Rename_Folder_of_VIs.vi]
+Save Level=-1
+FP.Title="Rename Folder of VIs"
+Exec.RunOnOpen=True
+

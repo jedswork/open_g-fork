@@ -1,0 +1,4 @@
+[1.6]
+date=2007-02-16
+release_id=487045
+md5=ab21acac16ff113297bcbd105a4e81ac
