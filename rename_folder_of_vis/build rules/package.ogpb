@@ -49,8 +49,7 @@ Target Dir="<application>/wizard"
 
 Replace Mode=Always
 
-Num Files=2
+Num Files=1
 
-File 0="*"
-File 1="_rename_folder_of_vis/*"
+File 0="rename_folder_of_vis.llb"
 
