@@ -49,3 +49,8 @@ Apply New Password=""
 Namespace=""
 Debug Level=0
 
+[VI Property - compare_vi_to_disk.vi]
+Save Level=-1
+BDWin.Bounds="5000; 5000; 5000; 5000"
+Exec.RunOnOpen=True
+
