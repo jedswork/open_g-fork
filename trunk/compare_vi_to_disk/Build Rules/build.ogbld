@@ -1,8 +1,8 @@
 [General]
-File Format Version=1.0.0-alpha5
-Project Root=".."
-Source Root="Source"
-Build Root="Built/LLB"
+File Format Version=1.0.2
+Project Root=..
+Source Root=Source
+Build Root=Built/LLB
 Namespace=compare_vi_to_disk
 Overwrite Existing Files=TRUE
 Log Dir=""
@@ -27,6 +27,9 @@ Version Ctrl Name=""
 Apply New Password=""
 RemovePolyVIsAndTypedefs=FALSE
 Allow CBVI & Build Hierarchy Overlap=FALSE
+Namespace Convention=0
+EXE App Flags=4
+EXE LVRT Res Flags=0
 
 [Top Level VIs]
 VI 1=compare_vi_to_disk.vi
@@ -40,8 +43,9 @@ Source Dir=""
 Target Dir=compare_vi_to_disk.llb
 Convert Target to LLB=TRUE
 Convert Target to EXE=FALSE
-Remove Diagrams=FALSE
+Save Level=0
 Default Destination=TRUE
 Apply New Password=""
 Namespace=""
+Debug Level=0
 
