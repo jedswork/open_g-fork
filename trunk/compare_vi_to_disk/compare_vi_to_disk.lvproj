@@ -11,6 +11,7 @@
       <Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
       <Property Name="specify.custom.address" Type="Bool">false</Property>
       <Item Name="compare_vi_to_disk.vipc" Type="Document" URL="compare_vi_to_disk.vipc"/>
+      <Item Name="compare_vi_to_disk.vi" Type="VI" URL="Source/compare_vi_to_disk.vi"/>
       <Item Name="Dependencies" Type="Dependencies"/>
       <Item Name="Build Specifications" Type="Build"/>
    </Item>
