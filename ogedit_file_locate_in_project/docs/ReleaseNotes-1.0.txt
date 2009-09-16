@@ -1,1 +1,0 @@
-This is the first release of the File>>Locate in Browser package.  It supports LabVIEW 8.2 and up on all platforms.

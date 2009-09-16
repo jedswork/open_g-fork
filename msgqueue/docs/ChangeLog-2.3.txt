@@ -1,6 +1,0 @@
-2007-01-01 
-[MOD] Changed license from LGPL to BSD
-[FIX] Made inputs of refnum typcasting functions required
-[FIX] In "Create Response Notifier.vi", made "msg queue" input required
-[FIX] In "Insert Msg Queue Element.vi", replaced "Create Response Notifier.vi" with a call to "Create Notifier.vi" and no longer creating a named notifier.
-[NEW] Added the "Classic Notifier" subpalette menu to the "Message Queue" palette menu for easy access.

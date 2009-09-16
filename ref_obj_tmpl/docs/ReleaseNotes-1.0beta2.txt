@@ -1,7 +1,0 @@
-This release adds a fix for [Bug 1759176] "SetData function does not unlock data when error in is TRUE".  It is recommended that this fix be applied manually to any classes created with version 1.0beta1 of the template.
-
-Before Fix Image
-https://sourceforge.net/tracker/download.php?group_id=52435&atid=466832&file_id=238240&aid=1759176
-
-After Fix Image
-https://sourceforge.net/tracker/download.php?group_id=52435&atid=466832&file_id=238241&aid=1759176

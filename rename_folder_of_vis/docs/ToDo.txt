@@ -1,2 +1,0 @@
-* Add support for renaming non-LabVIEW files
-* Add support for copying from one location to another

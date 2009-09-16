@@ -1,2 +1,0 @@
-* Need an OpenG "Get Date/Time in Seconds" w/ Error IO.
-
