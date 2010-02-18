@@ -1,0 +1,6 @@
+"Menu File Name","Menu Name","Submenus",,,,
+"comm","Communication","pipes","dsocket","SMTPEmail","tcp","udp"
+"graphics","Graphics & Sound","pictplots","picture","graphicsfmt","sound",
+"adv","Advanced","inputDevice","advdata","synch",,
+"mathform","Formula","mathpars",,,,
+"pipes","Pipes",,,,,

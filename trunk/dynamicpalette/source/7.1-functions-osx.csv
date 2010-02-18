@@ -1,0 +1,7 @@
+Menu File Name,Menu Name,Submenus,,,,
+3dprops,3D Graph Properties,,,,,
+comm,Communication,dsocket,SMTPEmail,tcp,udp,irda
+graphics,Graphics & Sound,3dprops,pictplots,picture,graphicsfmt,sound
+adv,Advanced,inputDevice,advdata,synch,,
+mathform,Formula,mathpars,,,,
+structs,Structures,,,,,

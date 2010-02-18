@@ -1,0 +1,9 @@
+"Menu File Name","Menu Name","Submenus",,,,
+"comm","Communication","dsocket","SMTPEmail","tcp","udp","applevnt"
+"graphics","Graphics & Sound","pictplots","picture","graphicsfmt","sound",
+"adv","Advanced","inputDevice","advdata","synch","portaccess",
+"mathform","Formula","mathpars",,,,
+"applevnt","AppleEvent","aevtlv","aelowlvl",,,
+"aevtlv","LabVIEW Specific Apple Events",,,,,
+"aelowlvl","Low Level Apple Events",,,,,
+"portaccess","Port I/O",,,,,
