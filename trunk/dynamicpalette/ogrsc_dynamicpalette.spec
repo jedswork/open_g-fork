@@ -1,15 +1,13 @@
 [Package Name]
 
 Name=ogrsc_dynamicpalette
-
-Version=0.18
-
+Version=0.19
 Release=1
 
 
 [Description]
 
-Description="The OpenG Dynamic Palette View creates palette syncronized directories within ./user.lib/_Dynamic_Palette_View/"
+Description="The OpenG Dynamic Palette View creates palette syncronized directories within ./user.lib/_Dynamic_Palette_View/\0A\0A[Release Notes]\0A* Can now be installed on LabVIEW 2010 (10.0)"
 
 Summary=OpenG Dyanimc Palette View
 
@@ -30,8 +28,7 @@ Packager=Jim Kring <jim@jimkring.com>
 
 [Platform]
 
-Exclusive_LabVIEW_Version="6.0, 6.1, 7.0, 7.1, 8.0, 8.1, 8.2, 8.5, 8.6, 9.0"
-
+Exclusive_LabVIEW_Version= >=6.0
 Exclusive_LabVIEW_System=All
 
 Exclusive_OS=Windows NT, Windows 9x, Linux, Mac OS >= 10
@@ -61,7 +58,7 @@ Target Dir=<application>/vi.lib/addons
 
 Replace Mode=Always
 
-Exclusive_LabVIEW_Version= 6.0, 6.1, 7.0, 7.1, 8.0, 8.1, 8.2, 8.5, 8.6, 9.0
+Exclusive_LabVIEW_Version= >=6.0
 
 Num Files=1
 
@@ -77,7 +74,7 @@ Target Dir=<application>/menus/Categories
 
 Replace Mode=Always
 
-Exclusive_LabVIEW_Version= 8.0, 8.1, 8.2, 8.5, 8.6, 9.0
+Exclusive_LabVIEW_Version= >=8.0
 
 Num Files=1
 
@@ -996,7 +993,7 @@ Target Dir=<application>/resource/OpenG/palette/dynamicpalette
 
 Replace Mode=Always
 
-Exclusive_LabVIEW_Version= 7.1, 8.0, 8.1, 8.2, 8.5, 8.6, 9.0
+Exclusive_LabVIEW_Version= >=7.1
 
 Num Files=2
 
@@ -1012,7 +1009,7 @@ Target Dir=<application>/menus/dynamic
 
 Replace Mode=Always
 
-Exclusive_LabVIEW_Version= 7.1, 8.0, 8.1, 8.2, 8.5, 8.6, 9.0
+Exclusive_LabVIEW_Version= >=7.1
 
 Num Files=136
 
@@ -1162,7 +1159,7 @@ Target Dir=<application>/menus/2ddynamic
 
 Replace Mode=Always
 
-Exclusive_LabVIEW_Version= 7.1, 8.0, 8.1, 8.2, 8.5, 8.6, 9.0
+Exclusive_LabVIEW_Version= >=7.1
 
 Num Files=2
 
@@ -1183,7 +1180,7 @@ Target Dir=<application>/resource/OpenG/palette/dynamicpalette
 
 Replace Mode=Always
 
-Exclusive_LabVIEW_Version= 7.1, 8.0, 8.1, 8.2, 8.5, 8.6, 9.0
+Exclusive_LabVIEW_Version= >=7.1
 
 Exclusive_OS=Windows NT
 
@@ -1201,7 +1198,7 @@ Target Dir=<application>/menus/dynamic/plat
 
 Replace Mode=Always
 
-Exclusive_LabVIEW_Version= 7.1, 8.0, 8.1, 8.2, 8.5, 8.6, 9.0
+Exclusive_LabVIEW_Version= >=7.1
 
 Exclusive_OS=Windows NT
 
@@ -1235,7 +1232,7 @@ Target Dir=<application>/resource/OpenG/palette/dynamicpalette
 
 Replace Mode=Always
 
-Exclusive_LabVIEW_Version= 7.1, 8.0, 8.1, 8.2, 8.5, 8.6, 9.0
+Exclusive_LabVIEW_Version= >=7.1
 
 Exclusive_OS=Mac OS
 
@@ -1253,7 +1250,7 @@ Target Dir=<application>/menus/dynamic/plat
 
 Replace Mode=Always
 
-Exclusive_LabVIEW_Version= 7.1, 8.0, 8.1, 8.2, 8.5, 8.6, 9.0
+Exclusive_LabVIEW_Version= >=7.1
 
 Exclusive_OS=Mac OS >= 1.0
 
@@ -1284,7 +1281,7 @@ Target Dir=<application>/resource/OpenG/palette/dynamicpalette
 
 Replace Mode=Always
 
-Exclusive_LabVIEW_Version= 7.1, 8.0, 8.1, 8.2, 8.5, 8.6, 9.0
+Exclusive_LabVIEW_Version= >=7.1
 
 Exclusive_OS=Linux
 
@@ -1302,7 +1299,7 @@ Target Dir=<application>/menus/dynamic/plat
 
 Replace Mode=Always
 
-Exclusive_LabVIEW_Version= 7.1, 8.0, 8.1, 8.2, 8.5, 8.6, 9.0
+Exclusive_LabVIEW_Version= >=7.1
 
 Exclusive_OS=Linux
 
@@ -1325,7 +1322,7 @@ Target Dir=<application>/menus/Controls
 
 Replace Mode=Always
 
-Exclusive_LabVIEW_Version= 8.0, 8.1, 8.2, 8.5, 8.6, 9.0
+Exclusive_LabVIEW_Version= >=8.0
 
 Num Files=1
 
@@ -1346,7 +1343,7 @@ Target Dir=<application>/menus/Categories
 
 Replace Mode=Always
 
-Exclusive_LabVIEW_Version= 8.0, 8.1, 8.2, 8.5, 8.6, 9.0
+Exclusive_LabVIEW_Version= >=8.0
 
 Num Files=1
 
@@ -1374,7 +1371,7 @@ Target Dir=Target Dir=<application>/menus/dynamic
 
 Replace Mode=Always
 
-Exclusive_LabVIEW_Version= 8.0, 8.1, 8.2, 8.5, 8.6, 9.0
+Exclusive_LabVIEW_Version= >=8.0
 
 Num Files=2
 
