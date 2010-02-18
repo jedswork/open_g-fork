@@ -1,0 +1,31 @@
+-= Creating a New Custom Palette View =-
+
+1) Select the Default Palette Set.  (New custom palettes are created from the active palette view, and the Dynamic Palette View is derived from the default palette view).
+2) Create new palette view called "dynamic".
+3) Create a file "./menus/dynamic.txt", whoes content is "Dynamic Palette View".  This will override the name "dynamic".
+
+Notes:
+
+-= Multiple References to a Menu =-
+
+If a menu is embedded in several locations, only the edited menu will be moved automatically to the "./menus/<CustomPaletteName>/" folder.  Each additional instance is a link to the original .mnu, which is likely located at "./menus/default/".  These will have to be manually removed, and added as links the the MNU file located at "./menus/<CustomPaletteName>/".
+
+-= readonly.txt - hiding missing submenus and VIs =-
+
+The presence of a file called "readonly.txt" in any directory performs a couple purposes.  First it tells LabVIEW's palette editor to dissallow editing of any .mnu files in that directory, secondly it tells LabVIEW to not show question marks ("?") for missing submenus VIs and functions.  When creating the Dynamic Palette View, do not put readonly.txt in the synched directories until after .mnu files are synched to directory, otherwise LabVIEW might crash and your .mnu files might become corrupted.
+
+-= Platform Dependant Menus =-
+
+The files inside of "./menus/<CustomPaletteName>" define a difference between the new palette view and the active palette at the time the user selected "new setup..." from the "Edit Controls and Functions Palettes" dialog.  When the custom palette view is first created the root.mnu is copied over from the previously active palette into "./menus/<CustomPaletteName>".  Then as one makes changes to the custom palette, individual .mnu files are copied over in a piecemeal fashon.  However, all mnu files are copied into "./menus/<CustomPaletteName>" regardless of thier previous location.  For example, the "Advanced" submenu of the default palette is stored at "./menus/default/plat/adv.mnu".  However, when you edit the "Advanced" palette within your custom palette view, LabVIEW will copy it to "./menus/<CustomPaletteName>/adv.mnu".  It is worth noting that the reason adv.mnu is originally stored beneath the "plat" folder is that it is platform dependant.  "./menus/default/*.mnu" are all of the platform independent menus and "./menus/default/plat/*.mnu" are all of the platform dependent menus.  They are segregated into seperate folders for ease of source code control and distribution.  For the Dynamic Palette View, we must also segregate these files, in an identical fashion.
+
+So, as we edit our custom palette view, LabVIEW is placing platform dependent .mnu files in the root folder of our custom palette view ("./menus/dynamic/").  In order to put them into the "./menus/dynamic/plat/" folder we need to exit LabVIEW, move the platform dependent .mnu files into the "./menus/dynamic/plat/" folder, and then restart LabVIEW.  Once LabVIEW restarts the moved menus will be missing from the palettes.  We now have to relink them, manually.  Open the palette editor, delete the missing menus, and insert them as new submenus.
+
+-= Build Process =-
+
+When doing a build, the numbered version without the platform modifier is built at...
+
+./menus/dynamic/
+
+The numbered verison with the platform modifier is built at...
+
+./menus/plat/
