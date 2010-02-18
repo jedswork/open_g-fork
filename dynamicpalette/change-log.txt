@@ -1,0 +1,45 @@
+0.17 --> 0.18
+------------------------------------------------------
+Added LabVIEW 9.0 support
+
+0.16 --> 0.17
+------------------------------------------------------
+Added LabVIEW 8.6 support
+
+0.15 --> 0.16
+------------------------------------------------------
+Added LabVIEW 8.5 support
+
+0.14 --> 0.15
+------------------------------------------------------
+Added LabVIEW 8.2 support
+
+0.13 --> 0.14
+------------------------------------------------------
+Added 7.x Functions palette to LabVIEW 8.x
+
+0.12 --> 0.13
+------------------------------------------------------
+Added LabVIEW 8.1 support
+
+0.11 --> 0.12
+------------------------------------------------------
+Added support for controls in OpenG Palette
+
+0.10 --> 0.11
+------------------------------------------------------
+FIX [ 1282507 ] Polynomial palette missing in LV 7.1
+FIX [ 1282491 ] Office Toolkit Dynamic Palette Bug
+
+0.7-1 --> 0.8-1
+------------------------------------------------------
+Added LabVIEW 7.1 support for Linux and Mac OS X.
+
+0.6-1 --> 0.7-1
+------------------------------------------------------
+Added LabVIEW 7.1 support for Windows (other platforms
+ to follow).
+
+0.3-1 --> 0.4-1
+------------------------------------------------------
+Package was missing LV7.0 platform specific palettes
