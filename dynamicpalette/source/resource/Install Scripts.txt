@@ -1,0 +1,31 @@
+-= Installation =-
+
+./menus/dynamic
+./menus/dynamic.txt
+
+./resource/OpenG/palette/dynamicpalette.llb
+./resource/OpenG/palette/dynamicpalette/*.csv
+
+./user.lib/_OpenG.lib/dynamicpalette_api/dynamicpalette_api.llb
+
+
+-= Postinstall =-
+
+Create Palette Synched Folders under ./user.lib/_dynamic_palette_dirs/*.mnu
+
+Create menu_to_folder_map.txt
+
+Call the dynamicpalette API VIs, getting the trees.  For each menu create the folder.
+
+
+-= PostUninstall =-
+
+Clean up.  Delete all folders beneath and including ./user.lib/_dynamic_palette_dirs/
+
+Delete...
+
+./user.lib/_dynamic_palette_dirs/dynamic_palette_dir_map.txt
+./user.lib/_dynamic_palette_dirs/*
+./user.lib/_dynamic_palette_dirs/
+
+./resource/OpenG/palette/dynamicpalette/

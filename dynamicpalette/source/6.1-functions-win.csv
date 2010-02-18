@@ -1,0 +1,11 @@
+"Menu File Name","Menu Name","Submenus",,,,,
+"3dprops","3D Graph Properties",,,,,,
+"comm","Communication","ole","dsocket","tcp","udp","hiq","irda"
+"ole","ActiveX","ax-events",,,,,
+"ax-events","ActiveX Events",,,,,,
+"graphics","Graphics & Sound","3dprops","pictplots","picture","graphicsfmt","sound",
+"adv","Advanced","advdata","synch","advmem","registry",,
+"advmem","Port I/O",,,,,,
+"registry","Windows Registry Access VIs",,,,,,
+"mathform","Formula","mathpars",,,,,
+"Hiq","HiQ",,,,,,
