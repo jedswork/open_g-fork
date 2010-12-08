@@ -1,10 +1,10 @@
-<VI_Package_Builder_Settings Version="0.3" Created_Date="2010-12-07 18:35:49" Modified_Date="2010-12-07 19:20:51" Creator="Jonathon Green" Comments="" ID="c9227dca12e489e55910945e1a1c79f1">
+<VI_Package_Builder_Settings Version="0.3" Created_Date="2010-12-07 18:35:49" Modified_Date="2010-12-08 21:47:36" Creator="Jonathon Green" Comments="" ID="bd326d6a8ac9f77b7548af816e1e474b">
   <Library_General_Settings>
     <Package_File_Name>oglib_msgqueue</Package_File_Name>
-    <Library_Version>4.0.0.7</Library_Version>
+    <Library_Version>4.0.0.12</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
-    <Library_Output_Folder>..\..</Library_Output_Folder>
+    <Library_Output_Folder>..</Library_Output_Folder>
     <Company_Name/>
     <Library_Summary/>
     <Library_License>BSD</Library_License>
@@ -19,7 +19,7 @@
       <Additional_External_Dependencies>ogrsc_dynamicpalette &gt;=0.19</Additional_External_Dependencies>
     </Package_Dependencies>
     <Custom_Action_VIs>
-      <Pre-Build_VI>..\..\build support\Pre-Build VI - Run Unit Tests.vi</Pre-Build_VI>
+      <Pre-Build_VI>..\build support\Pre-Build VI - Run Unit Tests.vi</Pre-Build_VI>
       <Post-Build_VI/>
       <Pre-Install_VI/>
       <Post-Install_VI/>
@@ -45,7 +45,7 @@ Package build with VIPM 2010</Release_Notes>
       <Examples>
         <LLB>false</LLB>
         <Preserve_Hierarchy>true</Preserve_Hierarchy>
-        <Path/>
+        <Path>&lt;application&gt;\examples\OpenG\msgqueue</Path>
       </Examples>
       <Custom_Probes>
         <LLB>false</LLB>
@@ -88,6 +88,18 @@ Package build with VIPM 2010</Release_Notes>
         <Additional_Destination>false</Additional_Destination>
         <Additional_Destination_Index>0</Additional_Destination_Index>
       </Destination_Overrides>
+      <Destination_Overrides>
+        <Path>library</Path>
+        <Destination>Toolkit VIs</Destination>
+        <Additional_Destination>false</Additional_Destination>
+        <Additional_Destination_Index>0</Additional_Destination_Index>
+      </Destination_Overrides>
+      <Destination_Overrides>
+        <Path>examples</Path>
+        <Destination>Examples</Destination>
+        <Additional_Destination>false</Additional_Destination>
+        <Additional_Destination_Index>0</Additional_Destination_Index>
+      </Destination_Overrides>
       <Password_Overrides>
         <Path>.</Path>
         <Password/>
@@ -95,10 +107,23 @@ Package build with VIPM 2010</Release_Notes>
       <Namespace_Overrides>
         <Path>.</Path>
         <Namespace_Type>Suffix</Namespace_Type>
+        <Namespace/>
+      </Namespace_Overrides>
+      <Namespace_Overrides>
+        <Path>library</Path>
+        <Namespace_Type>Suffix</Namespace_Type>
         <Namespace>__ogtk</Namespace>
       </Namespace_Overrides>
+      <Namespace_Overrides>
+        <Path>examples</Path>
+        <Namespace_Type>Suffix</Namespace_Type>
+        <Namespace>__ogtk</Namespace>
+      </Namespace_Overrides>
+      <Exclusions>
+        <Path>user docs</Path>
+      </Exclusions>
     </Source_Files>
-    <License_Agreement_Filepath>..\..\docs\License Agreement.txt</License_Agreement_Filepath>
+    <License_Agreement_Filepath>user docs\License Agreement.txt</License_Agreement_Filepath>
     <Licensing_and_Activation>
       <License_LF_file_path/>
       <Licensed_library_file_path/>
@@ -168,7 +193,7 @@ Package build with VIPM 2010</Release_Notes>
           <Column>1</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Create Msg Queue.vi</Path>
+        <Path>library\Create Msg Queue.vi</Path>
       </Items_Data>
       <Items_Data>
         <Type>Item</Type>
@@ -181,7 +206,7 @@ Package build with VIPM 2010</Release_Notes>
           <Column>4</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Flush Msg Queue.vi</Path>
+        <Path>library\Flush Msg Queue.vi</Path>
       </Items_Data>
       <Items_Data>
         <Type>Item</Type>
@@ -194,7 +219,7 @@ Package build with VIPM 2010</Release_Notes>
           <Column>2</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Get Msg Queue Status.vi</Path>
+        <Path>library\Get Msg Queue Status.vi</Path>
       </Items_Data>
       <Items_Data>
         <Type>Item</Type>
@@ -207,7 +232,7 @@ Package build with VIPM 2010</Release_Notes>
           <Column>2</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Insert Msg Queue Element.vi</Path>
+        <Path>library\Insert Msg Queue Element.vi</Path>
       </Items_Data>
       <Items_Data>
         <Type>Item</Type>
@@ -220,7 +245,7 @@ Package build with VIPM 2010</Release_Notes>
           <Column>4</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Not A Msg Queue.vi</Path>
+        <Path>library\Not A Msg Queue.vi</Path>
       </Items_Data>
       <Items_Data>
         <Type>Item</Type>
@@ -233,7 +258,7 @@ Package build with VIPM 2010</Release_Notes>
           <Column>3</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Remove Msg Queue Element.vi</Path>
+        <Path>library\Remove Msg Queue Element.vi</Path>
       </Items_Data>
       <Items_Data>
         <Type>Item</Type>
@@ -246,7 +271,7 @@ Package build with VIPM 2010</Release_Notes>
           <Column>5</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Destroy Msg Queue.vi</Path>
+        <Path>library\Destroy Msg Queue.vi</Path>
       </Items_Data>
       <Items_Data>
         <Type>Sub Palette</Type>
