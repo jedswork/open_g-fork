@@ -1,1 +1,0 @@
-This release adds BSD licensing of library VIs.
