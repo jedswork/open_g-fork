@@ -1,6 +1,6 @@
 OpenG File Tools
 
-Copyright (c) 2002 Jim Kring, 2010 Jonathon Green
+Copyright (c) 2002 Jim Kring; 2010 Jonathon Green
 
 All rights reserved.
 
