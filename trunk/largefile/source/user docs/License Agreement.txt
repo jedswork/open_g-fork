@@ -1,6 +1,6 @@
-OpenG  Large File Tools
+OpenG Large File Library
 
-Copyright (c) 2007 Rolf Kalbermatter; 2010 Jonathon Green
+Copyright (c) 2007 Rolf Kalbermatter; 2010-2011 Jonathon Green
 
 All rights reserved.
 
