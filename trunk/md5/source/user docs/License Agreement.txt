@@ -1,6 +1,6 @@
-OpenG MD5 Digest
+OpenG MD5 Digest Library
 
-Copyright (c) 2004 Enrique Vargas, 2010 Jonathon Green
+Copyright (c) 2004 Enrique Vargas, 2010-2011 Jonathon Green
 
 All rights reserved.
 
