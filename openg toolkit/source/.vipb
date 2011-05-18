@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.3" Created_Date="2011-04-23 07:57:34" Modified_Date="2011-05-18 08:08:13" Creator="Jonathon Green" Comments="" ID="eeb2ad53bf8dbc507d5bb4a8b8d8789b">
+<VI_Package_Builder_Settings Version="0.3" Created_Date="2011-04-23 07:57:34" Modified_Date="2011-05-18 08:39:02" Creator="Jonathon Green" Comments="" ID="085189f47325608dafcd5693731fe035">
   <Library_General_Settings>
     <Package_File_Name>openg.org_lib_openg_toolkit</Package_File_Name>
-    <Library_Version>4.0.0.6</Library_Version>
+    <Library_Version>4.0.0.7</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..</Library_Output_Folder>
@@ -16,25 +16,24 @@
   </Library_General_Settings>
   <Advanced_Settings>
     <Package_Dependencies>
-      <Additional_External_Dependencies>oglib_appcontrol &gt;=4.0.0.4</Additional_External_Dependencies>
-      <Additional_External_Dependencies>oglib_array &gt;=4.0.0.7</Additional_External_Dependencies>
-      <Additional_External_Dependencies>oglib_boolean &gt;=4.0.0.6</Additional_External_Dependencies>
-      <Additional_External_Dependencies>oglib_buttons &gt;=4.0.0.6</Additional_External_Dependencies>
-      <Additional_External_Dependencies>oglib_comparison &gt;=4.0.0.2</Additional_External_Dependencies>
-      <Additional_External_Dependencies>oglib_dictionary &gt;=4.0.0.1</Additional_External_Dependencies>
-      <Additional_External_Dependencies>oglib_error &gt;=4.0.0.9</Additional_External_Dependencies>
-      <Additional_External_Dependencies>oglib_file &gt;=4.0.0.19</Additional_External_Dependencies>
-      <Additional_External_Dependencies>oglib_largefile &gt;=4.0.0.2</Additional_External_Dependencies>
-      <Additional_External_Dependencies>oglib_lvdata &gt;=4.0.0.5</Additional_External_Dependencies>
+      <Additional_External_Dependencies>oglib_appcontrol &gt;=4.0.0.5</Additional_External_Dependencies>
+      <Additional_External_Dependencies>oglib_array &gt;=4.0.0.9</Additional_External_Dependencies>
+      <Additional_External_Dependencies>oglib_boolean &gt;=4.0.0.7</Additional_External_Dependencies>
+      <Additional_External_Dependencies>oglib_buttons &gt;=4.0.0.7</Additional_External_Dependencies>
+      <Additional_External_Dependencies>oglib_comparison &gt;=4.0.0.3</Additional_External_Dependencies>
+      <Additional_External_Dependencies>oglib_dictionary &gt;=4.0.0.4</Additional_External_Dependencies>
+      <Additional_External_Dependencies>oglib_error &gt;=4.0.0.12</Additional_External_Dependencies>
+      <Additional_External_Dependencies>oglib_file &gt;=4.0.0.20</Additional_External_Dependencies>
+      <Additional_External_Dependencies>oglib_largefile &gt;=4.0.0.3</Additional_External_Dependencies>
       <Additional_External_Dependencies>oglib_lvzip &gt;=4.0.0</Additional_External_Dependencies>
-      <Additional_External_Dependencies>oglib_md5 &gt;=4.0.0.3</Additional_External_Dependencies>
-      <Additional_External_Dependencies>oglib_msgqueue &gt;=4.0.0.14</Additional_External_Dependencies>
-      <Additional_External_Dependencies>oglib_numeric &gt;=4.0.0.4</Additional_External_Dependencies>
-      <Additional_External_Dependencies>oglib_picture &gt;=4.0.0.10</Additional_External_Dependencies>
+      <Additional_External_Dependencies>oglib_md5 &gt;=4.0.0.5</Additional_External_Dependencies>
+      <Additional_External_Dependencies>oglib_msgqueue &gt;=4.0.0.15</Additional_External_Dependencies>
+      <Additional_External_Dependencies>oglib_numeric &gt;=4.0.0.5</Additional_External_Dependencies>
+      <Additional_External_Dependencies>oglib_picture &gt;=4.0.0.13</Additional_External_Dependencies>
       <Additional_External_Dependencies>oglib_portio &gt;=4.0.0</Additional_External_Dependencies>
-      <Additional_External_Dependencies>oglib_string &gt;=4.0.0.5</Additional_External_Dependencies>
-      <Additional_External_Dependencies>oglib_time &gt;=4.0.0.1</Additional_External_Dependencies>
-      <Additional_External_Dependencies>oglib_variantconfig &gt;=4.0.0.3</Additional_External_Dependencies>
+      <Additional_External_Dependencies>oglib_string &gt;=4.0.0.6</Additional_External_Dependencies>
+      <Additional_External_Dependencies>oglib_time &gt;=4.0.0.2</Additional_External_Dependencies>
+      <Additional_External_Dependencies>oglib_variantconfig &gt;=4.0.0.5</Additional_External_Dependencies>
       <Package_Conflicts>nilib_rectangle &gt;=1.2</Package_Conflicts>
       <Package_Conflicts>ogmnu_appcontrol_plus &gt;=0.3</Package_Conflicts>
       <Package_Conflicts>ogmnu_classic_sync &gt;=2.5</Package_Conflicts>
