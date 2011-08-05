@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.3" Created_Date="2011-04-23 07:57:34" Modified_Date="2011-05-18 08:39:02" Creator="Jonathon Green" Comments="" ID="085189f47325608dafcd5693731fe035">
+<VI_Package_Builder_Settings Version="0.3" Created_Date="2011-04-23 07:57:34" Modified_Date="2011-08-04 17:27:20" Creator="Jonathon Green" Comments="" ID="081b4387f7c6f69ae0c67650d718725c">
   <Library_General_Settings>
     <Package_File_Name>openg.org_lib_openg_toolkit</Package_File_Name>
-    <Library_Version>4.0.0.7</Library_Version>
+    <Library_Version>4.0.1.10</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..</Library_Output_Folder>
@@ -25,6 +25,7 @@
       <Additional_External_Dependencies>oglib_error &gt;=4.0.0.12</Additional_External_Dependencies>
       <Additional_External_Dependencies>oglib_file &gt;=4.0.0.20</Additional_External_Dependencies>
       <Additional_External_Dependencies>oglib_largefile &gt;=4.0.0.3</Additional_External_Dependencies>
+      <Additional_External_Dependencies>oglib_lvdata &gt;=4.0.0.7</Additional_External_Dependencies>
       <Additional_External_Dependencies>oglib_lvzip &gt;=4.0.0</Additional_External_Dependencies>
       <Additional_External_Dependencies>oglib_md5 &gt;=4.0.0.5</Additional_External_Dependencies>
       <Additional_External_Dependencies>oglib_msgqueue &gt;=4.0.0.15</Additional_External_Dependencies>
@@ -50,12 +51,13 @@
     <VI_Package_Configuration_File>.vipc</VI_Package_Configuration_File>
     <Description>
       <One_Line_Description_Summary>OpenG Toolkit</One_Line_Description_Summary>
-      <Description>The OpenG Toolkit package installs the OpenG Libraries v4.0: Application Control, Array, Boolean, Buttons Comparison, Dictionary, Error, File, LabVIEW Data, LabVIEW ZIP, Large File, MD5, Message Queue, Numeric, Picture, Port IO, String, Time and Variant Configuration File.</Description>
+      <Description>The OpenG Toolkit package installs the OpenG Libraries 4.0: Application Control, Array, Boolean, Buttons Comparison, Dictionary, Error, File, LabVIEW Data, LabVIEW ZIP, Large File, MD5, Message Queue, Numeric, Picture, Port IO, String, Time and Variant Configuration File.
+
+Note - use this package when all dependant packages are uninstalled to upgrade to the OpenG 4.0 Libraries. This package will also uninstall packages not required or that are incompatible with the OpenG 4.0 release.</Description>
       <Copyright>Copyright (c) OpenG.org</Copyright>
       <Packager>OpenG.org</Packager>
       <URL>http://sine.ni.com/nips/cds/view/p/lang/en/nid/209027</URL>
-      <Release_Notes>Package sources upgraded to LabVIEW 2009 (package now compatible with LV2009 or greater)
-Package build with VIPM 2010</Release_Notes>
+      <Release_Notes>[FIX] 3386109 - LabVIEW Data Library missing as dependency</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
