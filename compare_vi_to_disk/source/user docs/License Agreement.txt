@@ -1,6 +1,6 @@
 OpenG Compare VI To Disk Tool
 
-Copyright (C) 2001 Ian Dees; 2005 Jim Kring, 2011 Jonathon Green
+Copyright (C) 2001 Ian Dees; 2005 Jim Kring; 2011 Danny Thomson; 2011 Jonathon Green
 
 Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
 
