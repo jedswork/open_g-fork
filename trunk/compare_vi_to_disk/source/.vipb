@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.3" Created_Date="2011-10-08 19:12:52" Modified_Date="2011-10-09 10:26:22" Creator="Jonathon Gren" Comments="" ID="3bc0053fd81658c54af32c563744541f">
+<VI_Package_Builder_Settings Version="0.3" Created_Date="2011-10-08 19:12:52" Modified_Date="2011-11-22 10:53:34" Creator="Jonathon Gren" Comments="" ID="b9e693b947ba895b32909e12a2e8070b">
   <Library_General_Settings>
     <Package_File_Name>ogrsc_compare_vi_to_disk</Package_File_Name>
-    <Library_Version>4.0.0.9</Library_Version>
+    <Library_Version>4.0.0.10</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..</Library_Output_Folder>
@@ -33,7 +33,7 @@
       <Description>Adds a 'Compare to Disk...' option to the OpenG Tools menu, which opens the active VI and the copy on disk in the LabVIEW comparison tool.  
 
 Thanks to Ian Dees for his application 'lvdiff', from which this utility derives inspiration and code.</Description>
-      <Copyright>Copyright (C) 2001 Ian Dees; 2005 Jim Kring, 2011 Jonathon Green</Copyright>
+      <Copyright>Copyright (C) 2001 Ian Dees; 2005 Jim Kring; 2011 Danny Thomson; 2011 Jonathon Green</Copyright>
       <Packager>OpenG.org</Packager>
       <URL>http://wiki.openg.org/Ogrsc_compare_vi_to_disk</URL>
       <Release_Notes>Package sources upgraded to LabVIEW 2009 (package now compatible with LV2009 or greater)
