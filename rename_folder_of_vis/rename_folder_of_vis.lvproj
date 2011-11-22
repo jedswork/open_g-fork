@@ -24,6 +24,7 @@
 					<Item Name="Proxy - Dist Set LLB Caching.vi" Type="VI" URL="../source/library/Proxy - Dist Set LLB Caching.vi"/>
 					<Item Name="RFOVIs--GetVersion.vi" Type="VI" URL="../source/library/RFOVIs--GetVersion.vi"/>
 				</Item>
+				<Item Name="Dependencies.vi" Type="VI" URL="../source/library/Dependencies.vi"/>
 				<Item Name="Rename_Folder_of_VIs.vi" Type="VI" URL="../source/library/Rename_Folder_of_VIs.vi"/>
 			</Item>
 		</Item>
