@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.3" Created_Date="2011-11-22 10:13:14" Modified_Date="2011-11-22 10:56:59" Creator="Jonathon Green" Comments="" ID="e16ea9c1272933d57058f2b4072e39bf">
+<VI_Package_Builder_Settings Version="0.3" Created_Date="2011-11-22 10:13:14" Modified_Date="2011-11-22 12:37:03" Creator="Jonathon Green" Comments="" ID="2f0289d50d06f20d2a4c6fdf680e48ab">
   <Library_General_Settings>
-    <Package_File_Name>ogrsc_locate_file_in_project</Package_File_Name>
-    <Library_Version>4.0.0.7</Library_Version>
+    <Package_File_Name>ogedit_file_locate_in_project</Package_File_Name>
+    <Library_Version>4.0.0.8</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..</Library_Output_Folder>
@@ -15,9 +15,7 @@
     <Was_Built>true</Was_Built>
   </Library_General_Settings>
   <Advanced_Settings>
-    <Package_Dependencies>
-      <Package_Conflicts>ogedit_file_locate_in_project &gt;=1.0.0.3</Package_Conflicts>
-    </Package_Dependencies>
+    <Package_Dependencies/>
     <Custom_Action_VIs>
       <Pre-Build_VI/>
       <Post-Build_VI/>
